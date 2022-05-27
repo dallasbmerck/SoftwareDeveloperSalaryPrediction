@@ -77,7 +77,7 @@ df = load()
 
 # Function to display the exploration page data using streamlit and matplotlib.
 def show_exploration_page():
-    st.title('Software Engineer Salary Data')
+    st.title('Software Developer Data Visualizations')
 
     st.write('')
     st.write('')
@@ -89,7 +89,7 @@ def show_exploration_page():
     ax1.pie(data, labels=data.index, autopct="%1.1f%%", shadow=True, startangle=90)
     ax1.axis('equal')
 
-    st.write('Data Distribution From Each Country')
+    st.write('Distribution of Developers by Country')
 
     st.pyplot(fig1)
 
