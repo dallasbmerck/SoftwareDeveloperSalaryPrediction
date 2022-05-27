@@ -1,0 +1,447 @@
+Country,EdLevel,YearsCodePro,Salary
+Italy,Master's Degree,2.0,14268.0
+Italy,Bachelor's Degree,3.0,35672.0
+Italy,Less than Bachelor's Degree,8.0,47563.0
+Italy,Master's Degree,3.0,35672.0
+Italy,Post Graduate Degree,6.0,33095.0
+Italy,Less than Bachelor's Degree,6.0,32429.0
+Italy,Master's Degree,5.0,27240.0
+Italy,Master's Degree,3.0,32429.0
+Italy,Less than Bachelor's Degree,6.0,27025.0
+Italy,Less than Bachelor's Degree,6.0,55130.0
+Italy,Master's Degree,8.0,64859.0
+Italy,Less than Bachelor's Degree,3.0,16860.0
+Italy,Master's Degree,3.0,25944.0
+Italy,Master's Degree,9.0,57292.0
+Italy,Master's Degree,3.0,25944.0
+Italy,Master's Degree,3.0,23782.0
+Italy,Master's Degree,10.0,54049.0
+Italy,Post Graduate Degree,10.0,45401.0
+Italy,Less than Bachelor's Degree,2.0,18156.0
+Italy,Post Graduate Degree,3.0,21408.0
+Italy,Master's Degree,7.0,43239.0
+Italy,Master's Degree,4.0,37834.0
+Italy,Less than Bachelor's Degree,5.0,22056.0
+Italy,Less than Bachelor's Degree,3.0,25944.0
+Italy,Master's Degree,3.0,34591.0
+Italy,Bachelor's Degree,7.0,32429.0
+Italy,Less than Bachelor's Degree,5.0,32429.0
+Italy,Bachelor's Degree,5.0,32424.0
+Italy,Less than Bachelor's Degree,5.0,41077.0
+Italy,Bachelor's Degree,10.0,43239.0
+Italy,Master's Degree,8.0,24863.0
+Italy,Less than Bachelor's Degree,4.0,37485.0
+Italy,Less than Bachelor's Degree,6.0,21408.0
+Italy,Post Graduate Degree,4.0,33732.0
+Italy,Master's Degree,5.0,27025.0
+Italy,Less than Bachelor's Degree,1.0,14268.0
+Italy,Less than Bachelor's Degree,10.0,60535.0
+Italy,Master's Degree,0.5,14916.0
+Italy,Bachelor's Degree,10.0,41077.0
+Italy,Bachelor's Degree,1.0,28800.0
+Italy,Less than Bachelor's Degree,10.0,51887.0
+Italy,Master's Degree,3.0,44320.0
+Italy,Master's Degree,8.0,34591.0
+Italy,Less than Bachelor's Degree,1.0,24322.0
+Italy,Less than Bachelor's Degree,1.0,25944.0
+Italy,Less than Bachelor's Degree,2.0,43239.0
+Italy,Master's Degree,3.0,35028.0
+Italy,Master's Degree,5.0,37834.0
+Italy,Bachelor's Degree,5.0,34591.0
+Italy,Master's Degree,4.0,34591.0
+Italy,Less than Bachelor's Degree,3.0,22056.0
+Italy,Master's Degree,7.0,28105.0
+Italy,Bachelor's Degree,3.0,22701.0
+Italy,Master's Degree,2.0,24863.0
+Italy,Bachelor's Degree,9.0,31348.0
+Italy,Master's Degree,1.0,22701.0
+Italy,Master's Degree,1.0,16585.0
+Italy,Less than Bachelor's Degree,3.0,22704.0
+Italy,Less than Bachelor's Degree,10.0,40537.0
+Italy,Bachelor's Degree,3.0,25944.0
+Italy,Less than Bachelor's Degree,10.0,43239.0
+Italy,Master's Degree,2.0,27025.0
+Italy,Bachelor's Degree,5.0,34591.0
+Italy,Master's Degree,2.0,18156.0
+Italy,Less than Bachelor's Degree,10.0,37294.0
+Italy,Master's Degree,7.0,48644.0
+Italy,Master's Degree,2.0,21620.0
+Italy,Master's Degree,8.0,48644.0
+Italy,Bachelor's Degree,5.0,51888.0
+Italy,Less than Bachelor's Degree,6.0,16215.0
+Italy,Master's Degree,1.0,20760.0
+Italy,Bachelor's Degree,4.0,37834.0
+Italy,Post Graduate Degree,10.0,14268.0
+Italy,Bachelor's Degree,5.0,43239.0
+Italy,Master's Degree,2.0,59454.0
+Italy,Master's Degree,9.0,25944.0
+Italy,Post Graduate Degree,10.0,59454.0
+Italy,Master's Degree,2.0,24648.0
+Italy,Master's Degree,6.0,27025.0
+Italy,Less than Bachelor's Degree,2.0,17508.0
+Italy,Less than Bachelor's Degree,5.0,24648.0
+Italy,Bachelor's Degree,7.0,39996.0
+Italy,Post Graduate Degree,4.0,45942.0
+Italy,Master's Degree,9.0,35672.0
+Italy,Less than Bachelor's Degree,4.0,24000.0
+Italy,Master's Degree,2.0,16860.0
+Italy,Bachelor's Degree,5.0,23352.0
+Italy,Master's Degree,3.0,46482.0
+Italy,Master's Degree,2.0,43239.0
+Italy,Less than Bachelor's Degree,3.0,16860.0
+Italy,Master's Degree,8.0,34591.0
+Italy,Less than Bachelor's Degree,7.0,51888.0
+Italy,Less than Bachelor's Degree,6.0,43239.0
+Italy,Bachelor's Degree,2.0,32429.0
+Italy,Master's Degree,10.0,64859.0
+Italy,Bachelor's Degree,9.0,34591.0
+Italy,Bachelor's Degree,2.0,20760.0
+Italy,Less than Bachelor's Degree,2.0,29186.0
+Italy,Less than Bachelor's Degree,10.0,18156.0
+Italy,Less than Bachelor's Degree,5.0,32424.0
+Italy,Less than Bachelor's Degree,8.0,41077.0
+Italy,Bachelor's Degree,6.0,20539.0
+Italy,Bachelor's Degree,3.0,32429.0
+Italy,Master's Degree,3.0,18156.0
+Italy,Bachelor's Degree,3.0,20760.0
+Italy,Less than Bachelor's Degree,6.0,44320.0
+Italy,Post Graduate Degree,6.0,64859.0
+Italy,Less than Bachelor's Degree,4.0,33510.0
+Italy,Less than Bachelor's Degree,4.0,21620.0
+Italy,Bachelor's Degree,3.0,28105.0
+Italy,Master's Degree,3.0,35672.0
+Italy,Bachelor's Degree,3.0,23352.0
+Italy,Master's Degree,5.0,41348.0
+Italy,Less than Bachelor's Degree,8.0,35672.0
+Italy,Master's Degree,6.0,48644.0
+Italy,Master's Degree,4.0,47563.0
+Italy,Less than Bachelor's Degree,3.0,30267.0
+Italy,Less than Bachelor's Degree,8.0,31128.0
+Italy,Master's Degree,2.0,22056.0
+Italy,Master's Degree,5.0,28754.0
+Italy,Master's Degree,6.0,45401.0
+Italy,Less than Bachelor's Degree,5.0,16212.0
+Italy,Master's Degree,6.0,45401.0
+Italy,Master's Degree,2.0,23782.0
+Italy,Bachelor's Degree,8.0,43239.0
+Italy,Bachelor's Degree,4.0,118908.0
+Italy,Less than Bachelor's Degree,7.0,32429.0
+Italy,Post Graduate Degree,8.0,25944.0
+Italy,Master's Degree,3.0,38915.0
+Italy,Less than Bachelor's Degree,9.0,43239.0
+Italy,Bachelor's Degree,6.0,27025.0
+Italy,Bachelor's Degree,4.0,28105.0
+Italy,Bachelor's Degree,2.0,19452.0
+Italy,Master's Degree,5.0,52968.0
+Italy,Bachelor's Degree,10.0,28536.0
+Italy,Less than Bachelor's Degree,4.0,23352.0
+Italy,Less than Bachelor's Degree,6.0,25944.0
+Italy,Post Graduate Degree,7.0,48644.0
+Italy,Post Graduate Degree,7.0,47563.0
+Italy,Less than Bachelor's Degree,10.0,51888.0
+Italy,Master's Degree,4.0,37834.0
+Italy,Less than Bachelor's Degree,3.0,28105.0
+Italy,Master's Degree,3.0,42158.0
+Italy,Bachelor's Degree,10.0,56211.0
+Italy,Bachelor's Degree,7.0,35672.0
+Italy,Less than Bachelor's Degree,7.0,56211.0
+Italy,Master's Degree,8.0,35672.0
+Italy,Less than Bachelor's Degree,2.0,20760.0
+Italy,Bachelor's Degree,4.0,37834.0
+Italy,Bachelor's Degree,6.0,27504.0
+Italy,Bachelor's Degree,6.0,27240.0
+Italy,Bachelor's Degree,8.0,38915.0
+Italy,Post Graduate Degree,9.0,37834.0
+Italy,Bachelor's Degree,5.0,20760.0
+Italy,Master's Degree,5.0,18156.0
+Italy,Less than Bachelor's Degree,5.0,27025.0
+Italy,Bachelor's Degree,2.0,37834.0
+Italy,Less than Bachelor's Degree,10.0,46482.0
+Italy,Less than Bachelor's Degree,5.0,20760.0
+Italy,Master's Degree,0.5,16212.0
+Italy,Less than Bachelor's Degree,10.0,47563.0
+Italy,Master's Degree,6.0,12972.0
+Italy,Master's Degree,6.0,47563.0
+Italy,Master's Degree,1.0,25627.0
+Italy,Master's Degree,0.5,32429.0
+Italy,Post Graduate Degree,6.0,49725.0
+Italy,Less than Bachelor's Degree,3.0,31128.0
+Italy,Master's Degree,3.0,21120.0
+Italy,Less than Bachelor's Degree,2.0,18156.0
+Italy,Less than Bachelor's Degree,3.0,155664.0
+Italy,Less than Bachelor's Degree,5.0,44320.0
+Italy,Bachelor's Degree,8.0,34591.0
+Italy,Less than Bachelor's Degree,10.0,17508.0
+Italy,Less than Bachelor's Degree,1.0,18156.0
+Italy,Post Graduate Degree,2.0,32429.0
+Italy,Bachelor's Degree,5.0,32429.0
+Italy,Less than Bachelor's Degree,7.0,34591.0
+Italy,Less than Bachelor's Degree,9.0,36753.0
+Italy,Less than Bachelor's Degree,5.0,36753.0
+Italy,Master's Degree,10.0,37834.0
+Italy,Bachelor's Degree,6.0,34591.0
+Italy,Less than Bachelor's Degree,7.0,32429.0
+Italy,Bachelor's Degree,5.0,45401.0
+Italy,Less than Bachelor's Degree,3.0,16860.0
+Italy,Less than Bachelor's Degree,6.0,28105.0
+Italy,Master's Degree,0.5,24863.0
+Italy,Bachelor's Degree,5.0,19452.0
+Italy,Master's Degree,2.0,36753.0
+Italy,Less than Bachelor's Degree,10.0,27240.0
+Italy,Less than Bachelor's Degree,10.0,12972.0
+Italy,Less than Bachelor's Degree,7.0,56211.0
+Italy,Master's Degree,9.0,43238.0
+Italy,Master's Degree,3.0,32429.0
+Italy,Master's Degree,10.0,38916.0
+Italy,Post Graduate Degree,10.0,37834.0
+Italy,Less than Bachelor's Degree,5.0,32429.0
+Italy,Master's Degree,8.0,33732.0
+Italy,Bachelor's Degree,10.0,43239.0
+Italy,Bachelor's Degree,4.0,16476.0
+Italy,Master's Degree,3.0,16860.0
+Italy,Less than Bachelor's Degree,1.0,20760.0
+Italy,Bachelor's Degree,0.5,16215.0
+Italy,Master's Degree,7.0,38916.0
+Italy,Bachelor's Degree,10.0,43239.0
+Italy,Less than Bachelor's Degree,0.5,15564.0
+Italy,Less than Bachelor's Degree,2.0,17508.0
+Italy,Less than Bachelor's Degree,5.0,20496.0
+Italy,Bachelor's Degree,10.0,54049.0
+Italy,Less than Bachelor's Degree,8.0,18156.0
+Italy,Bachelor's Degree,8.0,49725.0
+Italy,Bachelor's Degree,3.0,35672.0
+Italy,Less than Bachelor's Degree,0.5,15564.0
+Italy,Less than Bachelor's Degree,0.5,20760.0
+Italy,Bachelor's Degree,10.0,18156.0
+Italy,Master's Degree,1.0,36324.0
+Italy,Less than Bachelor's Degree,3.0,19452.0
+Italy,Less than Bachelor's Degree,4.0,16860.0
+Italy,Bachelor's Degree,10.0,17508.0
+Italy,Less than Bachelor's Degree,7.0,43239.0
+Italy,Master's Degree,3.0,18156.0
+Italy,Less than Bachelor's Degree,2.0,19452.0
+Italy,Master's Degree,6.0,48644.0
+Italy,Master's Degree,10.0,56211.0
+Italy,Bachelor's Degree,9.0,29186.0
+Italy,Master's Degree,4.0,31348.0
+Italy,Master's Degree,0.5,18540.0
+Italy,Bachelor's Degree,2.0,34591.0
+Italy,Master's Degree,0.5,12972.0
+Italy,Bachelor's Degree,4.0,35672.0
+Italy,Master's Degree,6.0,34591.0
+Italy,Master's Degree,6.0,41508.0
+Italy,Less than Bachelor's Degree,5.0,25332.0
+Italy,Bachelor's Degree,3.0,33510.0
+Italy,Less than Bachelor's Degree,2.0,18156.0
+Italy,Master's Degree,3.0,39996.0
+Italy,Master's Degree,3.0,31348.0
+Italy,Less than Bachelor's Degree,8.0,50806.0
+Italy,Less than Bachelor's Degree,2.0,14268.0
+Italy,Less than Bachelor's Degree,3.0,22701.0
+Italy,Less than Bachelor's Degree,8.0,23352.0
+Italy,Post Graduate Degree,4.0,21620.0
+Italy,Bachelor's Degree,4.0,31348.0
+Italy,Master's Degree,5.0,43239.0
+Italy,Less than Bachelor's Degree,10.0,51887.0
+Italy,Master's Degree,6.0,27240.0
+Italy,Less than Bachelor's Degree,5.0,20760.0
+Italy,Bachelor's Degree,1.0,22056.0
+Italy,Bachelor's Degree,1.0,25944.0
+Italy,Master's Degree,10.0,48644.0
+Italy,Less than Bachelor's Degree,0.5,14268.0
+Italy,Bachelor's Degree,4.0,18156.0
+Italy,Less than Bachelor's Degree,4.0,15564.0
+Italy,Less than Bachelor's Degree,3.0,16860.0
+Italy,Master's Degree,5.0,60535.0
+Italy,Bachelor's Degree,1.0,18804.0
+Italy,Master's Degree,3.0,12972.0
+Italy,Less than Bachelor's Degree,1.0,15564.0
+Italy,Less than Bachelor's Degree,3.0,11676.0
+Italy,Bachelor's Degree,10.0,38915.0
+Italy,Post Graduate Degree,5.0,51888.0
+Italy,Post Graduate Degree,9.0,27240.0
+Italy,Bachelor's Degree,8.0,54049.0
+Italy,Bachelor's Degree,8.0,588.0
+Italy,Less than Bachelor's Degree,6.0,23352.0
+Italy,Master's Degree,7.0,35672.0
+Italy,Less than Bachelor's Degree,10.0,15564.0
+Italy,Master's Degree,2.0,19452.0
+Italy,Master's Degree,3.0,25944.0
+Italy,Less than Bachelor's Degree,3.0,46482.0
+Italy,Less than Bachelor's Degree,0.5,16860.0
+Italy,Master's Degree,7.0,32429.0
+Italy,Bachelor's Degree,10.0,648.0
+Italy,Master's Degree,5.0,34591.0
+Italy,Less than Bachelor's Degree,5.0,32429.0
+Italy,Bachelor's Degree,5.0,24863.0
+Italy,Less than Bachelor's Degree,3.0,36324.0
+Italy,Master's Degree,0.5,27025.0
+Italy,Less than Bachelor's Degree,3.0,21620.0
+Italy,Master's Degree,5.0,27408.0
+Italy,Less than Bachelor's Degree,6.0,32429.0
+Italy,Master's Degree,9.0,51887.0
+Italy,Less than Bachelor's Degree,10.0,45401.0
+Italy,Bachelor's Degree,4.0,49725.0
+Italy,Master's Degree,1.0,36753.0
+Italy,Less than Bachelor's Degree,5.0,19452.0
+Italy,Master's Degree,2.0,26808.0
+Italy,Master's Degree,2.0,24000.0
+Italy,Less than Bachelor's Degree,0.5,3888.0
+Italy,Bachelor's Degree,6.0,42158.0
+Italy,Master's Degree,5.0,54049.0
+Italy,Less than Bachelor's Degree,4.0,42158.0
+Italy,Master's Degree,10.0,116748.0
+Italy,Less than Bachelor's Degree,1.0,22056.0
+Italy,Post Graduate Degree,9.0,50592.0
+Italy,Less than Bachelor's Degree,4.0,36753.0
+Italy,Less than Bachelor's Degree,2.0,31348.0
+Italy,Less than Bachelor's Degree,7.0,39023.0
+Italy,Bachelor's Degree,5.0,36753.0
+Italy,Bachelor's Degree,5.0,35672.0
+Italy,Bachelor's Degree,5.0,35672.0
+Italy,Less than Bachelor's Degree,7.0,33564.0
+Italy,Less than Bachelor's Degree,1.0,12060.0
+Italy,Master's Degree,6.0,23352.0
+Italy,Master's Degree,5.0,41077.0
+Italy,Bachelor's Degree,9.0,20496.0
+Italy,Less than Bachelor's Degree,5.0,48644.0
+Italy,Bachelor's Degree,5.0,45401.0
+Italy,Less than Bachelor's Degree,1.0,6480.0
+Italy,Master's Degree,9.0,64860.0
+Italy,Less than Bachelor's Degree,6.0,43239.0
+Italy,Less than Bachelor's Degree,7.0,34591.0
+Italy,Less than Bachelor's Degree,8.0,27025.0
+Italy,Less than Bachelor's Degree,9.0,21408.0
+Italy,Bachelor's Degree,7.0,18804.0
+Italy,Master's Degree,9.0,46482.0
+Italy,Master's Degree,2.0,30267.0
+Italy,Less than Bachelor's Degree,7.0,56211.0
+Italy,Less than Bachelor's Degree,9.0,51887.0
+Italy,Bachelor's Degree,4.0,32429.0
+Italy,Less than Bachelor's Degree,5.0,29832.0
+Italy,Bachelor's Degree,5.0,41618.0
+Italy,Less than Bachelor's Degree,6.0,18156.0
+Italy,Less than Bachelor's Degree,3.0,23088.0
+Italy,Less than Bachelor's Degree,2.0,21620.0
+Italy,Less than Bachelor's Degree,7.0,35672.0
+Italy,Less than Bachelor's Degree,4.0,75669.0
+Italy,Bachelor's Degree,4.0,14268.0
+Italy,Master's Degree,6.0,22056.0
+Italy,Less than Bachelor's Degree,0.5,10380.0
+Italy,Bachelor's Degree,10.0,18156.0
+Italy,Less than Bachelor's Degree,3.0,29511.0
+Italy,Less than Bachelor's Degree,4.0,32429.0
+Italy,Less than Bachelor's Degree,0.5,12972.0
+Italy,Bachelor's Degree,5.0,103774.0
+Italy,Master's Degree,6.0,25546.0
+Italy,Less than Bachelor's Degree,10.0,32429.0
+Italy,Post Graduate Degree,4.0,27025.0
+Italy,Master's Degree,7.0,38915.0
+Italy,Master's Degree,1.0,29186.0
+Italy,Bachelor's Degree,4.0,32429.0
+Italy,Less than Bachelor's Degree,3.0,45401.0
+Italy,Less than Bachelor's Degree,3.0,23352.0
+Italy,Master's Degree,6.0,25944.0
+Italy,Bachelor's Degree,5.0,36753.0
+Italy,Less than Bachelor's Degree,2.0,28105.0
+Italy,Bachelor's Degree,10.0,34591.0
+Italy,Less than Bachelor's Degree,4.0,43239.0
+Italy,Less than Bachelor's Degree,10.0,27565.0
+Italy,Master's Degree,6.0,23352.0
+Italy,Bachelor's Degree,10.0,49725.0
+Italy,Less than Bachelor's Degree,6.0,25944.0
+Italy,Bachelor's Degree,10.0,54049.0
+Italy,Master's Degree,1.0,22056.0
+Italy,Master's Degree,5.0,37834.0
+Italy,Less than Bachelor's Degree,7.0,24648.0
+Italy,Less than Bachelor's Degree,0.5,15564.0
+Italy,Master's Degree,4.0,32429.0
+Italy,Less than Bachelor's Degree,10.0,19452.0
+Italy,Master's Degree,5.0,43239.0
+Italy,Master's Degree,1.0,27240.0
+Italy,Post Graduate Degree,2.0,18156.0
+Italy,Master's Degree,5.0,36753.0
+Italy,Master's Degree,6.0,41077.0
+Italy,Less than Bachelor's Degree,2.0,22701.0
+Italy,Less than Bachelor's Degree,0.5,16080.0
+Italy,Less than Bachelor's Degree,6.0,29186.0
+Italy,Less than Bachelor's Degree,2.0,20760.0
+Italy,Bachelor's Degree,8.0,43239.0
+Italy,Less than Bachelor's Degree,10.0,46482.0
+Italy,Post Graduate Degree,10.0,45401.0
+Italy,Less than Bachelor's Degree,0.5,12972.0
+Italy,Master's Degree,4.0,73507.0
+Italy,Less than Bachelor's Degree,3.0,27025.0
+Italy,Post Graduate Degree,7.0,36753.0
+Italy,Less than Bachelor's Degree,1.0,16860.0
+Italy,Master's Degree,0.5,24000.0
+Italy,Post Graduate Degree,4.0,37834.0
+Italy,Master's Degree,5.0,39996.0
+Italy,Master's Degree,8.0,42158.0
+Italy,Master's Degree,10.0,20760.0
+Italy,Less than Bachelor's Degree,0.5,15564.0
+Italy,Bachelor's Degree,0.5,17256.0
+Italy,Less than Bachelor's Degree,5.0,32429.0
+Italy,Master's Degree,10.0,43239.0
+Italy,Master's Degree,5.0,29186.0
+Italy,Bachelor's Degree,7.0,29727.0
+Italy,Master's Degree,4.0,19452.0
+Italy,Master's Degree,8.0,34591.0
+Italy,Less than Bachelor's Degree,4.0,12972.0
+Italy,Master's Degree,2.0,19452.0
+Italy,Less than Bachelor's Degree,9.0,52968.0
+Italy,Bachelor's Degree,5.0,18377.0
+Italy,Bachelor's Degree,6.0,20760.0
+Italy,Less than Bachelor's Degree,7.0,46482.0
+Italy,Master's Degree,3.0,29186.0
+Italy,Bachelor's Degree,9.0,33510.0
+Italy,Less than Bachelor's Degree,5.0,32429.0
+Italy,Master's Degree,7.0,38915.0
+Italy,Less than Bachelor's Degree,10.0,25944.0
+Italy,Less than Bachelor's Degree,8.0,32429.0
+Italy,Master's Degree,4.0,30267.0
+Italy,Bachelor's Degree,7.0,29727.0
+Italy,Master's Degree,4.0,32429.0
+Italy,Master's Degree,4.0,32429.0
+Italy,Bachelor's Degree,4.0,37834.0
+Italy,Master's Degree,6.0,30267.0
+Italy,Master's Degree,0.5,27025.0
+Italy,Less than Bachelor's Degree,6.0,23782.0
+Italy,Less than Bachelor's Degree,0.5,32429.0
+Italy,Less than Bachelor's Degree,0.5,27025.0
+Italy,Less than Bachelor's Degree,3.0,29186.0
+Italy,Master's Degree,3.0,37294.0
+Italy,Less than Bachelor's Degree,1.0,14268.0
+Italy,Less than Bachelor's Degree,2.0,16860.0
+Italy,Bachelor's Degree,7.0,24000.0
+Italy,Less than Bachelor's Degree,0.5,15564.0
+Italy,Less than Bachelor's Degree,0.5,10380.0
+Italy,Bachelor's Degree,2.0,37834.0
+Italy,Bachelor's Degree,5.0,37834.0
+Italy,Less than Bachelor's Degree,5.0,19452.0
+Italy,Less than Bachelor's Degree,2.0,35672.0
+Italy,Master's Degree,4.0,22056.0
+Italy,Bachelor's Degree,6.0,43239.0
+Italy,Bachelor's Degree,2.0,18804.0
+Italy,Less than Bachelor's Degree,8.0,35672.0
+Italy,Less than Bachelor's Degree,7.0,19452.0
+Italy,Master's Degree,4.0,43239.0
+Italy,Bachelor's Degree,5.0,55907.0
+Italy,Post Graduate Degree,2.0,25944.0
+Italy,Bachelor's Degree,1.0,18156.0
+Italy,Less than Bachelor's Degree,9.0,16212.0
+Italy,Less than Bachelor's Degree,6.0,18156.0
+Italy,Less than Bachelor's Degree,2.0,28105.0
+Italy,Less than Bachelor's Degree,1.0,18804.0
+Italy,Less than Bachelor's Degree,2.0,16860.0
+Italy,Master's Degree,0.5,25944.0
+Italy,Bachelor's Degree,4.0,44320.0
+Italy,Less than Bachelor's Degree,0.5,6480.0
+Italy,Master's Degree,8.0,36861.0
+Italy,Master's Degree,6.0,35672.0
+Italy,Less than Bachelor's Degree,1.0,12588.0
+Italy,Master's Degree,2.0,16860.0
+Italy,Bachelor's Degree,7.0,49725.0
+Italy,Bachelor's Degree,3.0,29186.0
+Italy,Master's Degree,6.0,54049.0
+Italy,Master's Degree,0.5,10380.0

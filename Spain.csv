@@ -1,0 +1,537 @@
+Country,EdLevel,YearsCodePro,Salary
+Spain,Bachelor's Degree,5.0,46482.0
+Spain,Master's Degree,10.0,58373.0
+Spain,Less than Bachelor's Degree,8.0,38915.0
+Spain,Post Graduate Degree,5.0,32429.0
+Spain,Master's Degree,10.0,12972.0
+Spain,Bachelor's Degree,4.0,28105.0
+Spain,Bachelor's Degree,4.0,34591.0
+Spain,Less than Bachelor's Degree,2.0,20539.0
+Spain,Less than Bachelor's Degree,8.0,16215.0
+Spain,Less than Bachelor's Degree,0.5,18160.0
+Spain,Less than Bachelor's Degree,4.0,32429.0
+Spain,Less than Bachelor's Degree,9.0,81074.0
+Spain,Bachelor's Degree,7.0,32429.0
+Spain,Bachelor's Degree,3.0,30267.0
+Spain,Master's Degree,7.0,37834.0
+Spain,Bachelor's Degree,6.0,28536.0
+Spain,Master's Degree,4.0,25944.0
+Spain,Bachelor's Degree,9.0,61616.0
+Spain,Post Graduate Degree,7.0,28105.0
+Spain,Master's Degree,2.0,25944.0
+Spain,Less than Bachelor's Degree,5.0,19452.0
+Spain,Bachelor's Degree,5.0,68100.0
+Spain,Master's Degree,5.0,15564.0
+Spain,Master's Degree,6.0,43239.0
+Spain,Master's Degree,8.0,36753.0
+Spain,Less than Bachelor's Degree,1.0,16860.0
+Spain,Bachelor's Degree,2.0,39456.0
+Spain,Bachelor's Degree,8.0,31348.0
+Spain,Master's Degree,3.0,21187.0
+Spain,Less than Bachelor's Degree,7.0,25944.0
+Spain,Master's Degree,3.0,21620.0
+Spain,Master's Degree,5.0,27240.0
+Spain,Bachelor's Degree,3.0,22701.0
+Spain,Master's Degree,9.0,75669.0
+Spain,Master's Degree,5.0,47563.0
+Spain,Less than Bachelor's Degree,2.0,51887.0
+Spain,Bachelor's Degree,2.0,12972.0
+Spain,Master's Degree,10.0,42158.0
+Spain,Less than Bachelor's Degree,5.0,34591.0
+Spain,Bachelor's Degree,2.0,17508.0
+Spain,Bachelor's Degree,5.0,43239.0
+Spain,Bachelor's Degree,10.0,64859.0
+Spain,Bachelor's Degree,4.0,121070.0
+Spain,Less than Bachelor's Degree,4.0,24648.0
+Spain,Master's Degree,2.0,23782.0
+Spain,Bachelor's Degree,10.0,75669.0
+Spain,Master's Degree,8.0,43996.0
+Spain,Bachelor's Degree,2.0,29832.0
+Spain,Master's Degree,8.0,59454.0
+Spain,Post Graduate Degree,2.0,43239.0
+Spain,Master's Degree,5.0,32429.0
+Spain,Less than Bachelor's Degree,5.0,68102.0
+Spain,Bachelor's Degree,1.0,32429.0
+Spain,Less than Bachelor's Degree,4.0,47563.0
+Spain,Master's Degree,4.0,27025.0
+Spain,Master's Degree,7.0,47563.0
+Spain,Bachelor's Degree,7.0,59454.0
+Spain,Bachelor's Degree,0.5,29186.0
+Spain,Bachelor's Degree,5.0,45401.0
+Spain,Bachelor's Degree,4.0,32429.0
+Spain,Less than Bachelor's Degree,6.0,52968.0
+Spain,Bachelor's Degree,5.0,30267.0
+Spain,Post Graduate Degree,4.0,36753.0
+Spain,Bachelor's Degree,6.0,41077.0
+Spain,Less than Bachelor's Degree,5.0,47563.0
+Spain,Less than Bachelor's Degree,2.0,39996.0
+Spain,Master's Degree,5.0,40731.0
+Spain,Master's Degree,8.0,19452.0
+Spain,Master's Degree,4.0,51887.0
+Spain,Master's Degree,2.0,30267.0
+Spain,Less than Bachelor's Degree,5.0,45401.0
+Spain,Bachelor's Degree,3.0,32429.0
+Spain,Bachelor's Degree,10.0,70264.0
+Spain,Bachelor's Degree,3.0,36753.0
+Spain,Less than Bachelor's Degree,10.0,32429.0
+Spain,Post Graduate Degree,4.0,38915.0
+Spain,Bachelor's Degree,3.0,37834.0
+Spain,Master's Degree,5.0,37834.0
+Spain,Bachelor's Degree,6.0,18377.0
+Spain,Less than Bachelor's Degree,3.0,27025.0
+Spain,Master's Degree,8.0,97288.0
+Spain,Master's Degree,2.0,25944.0
+Spain,Post Graduate Degree,2.0,21079.0
+Spain,Less than Bachelor's Degree,4.0,48644.0
+Spain,Less than Bachelor's Degree,6.0,35672.0
+Spain,Bachelor's Degree,4.0,27025.0
+Spain,Bachelor's Degree,6.0,43239.0
+Spain,Bachelor's Degree,6.0,59670.0
+Spain,Master's Degree,9.0,57292.0
+Spain,Bachelor's Degree,9.0,45401.0
+Spain,Bachelor's Degree,1.0,17296.0
+Spain,Bachelor's Degree,4.0,30267.0
+Spain,Master's Degree,7.0,38915.0
+Spain,Post Graduate Degree,1.0,13620.0
+Spain,Less than Bachelor's Degree,5.0,70572.0
+Spain,Master's Degree,7.0,37456.0
+Spain,Master's Degree,4.0,26030.0
+Spain,Post Graduate Degree,2.0,25944.0
+Spain,Less than Bachelor's Degree,6.0,17508.0
+Spain,Less than Bachelor's Degree,5.0,30267.0
+Spain,Master's Degree,7.0,43239.0
+Spain,Master's Degree,5.0,43239.0
+Spain,Post Graduate Degree,1.0,19458.0
+Spain,Post Graduate Degree,8.0,48644.0
+Spain,Master's Degree,4.0,37834.0
+Spain,Less than Bachelor's Degree,2.0,19668.0
+Spain,Bachelor's Degree,6.0,33510.0
+Spain,Less than Bachelor's Degree,0.5,58373.0
+Spain,Post Graduate Degree,3.0,22701.0
+Spain,Master's Degree,2.0,13620.0
+Spain,Master's Degree,3.0,34591.0
+Spain,Master's Degree,4.0,22428.0
+Spain,Less than Bachelor's Degree,2.0,22701.0
+Spain,Less than Bachelor's Degree,8.0,42591.0
+Spain,Bachelor's Degree,3.0,31348.0
+Spain,Master's Degree,8.0,38915.0
+Spain,Master's Degree,0.5,37834.0
+Spain,Master's Degree,3.0,26484.0
+Spain,Post Graduate Degree,5.0,23782.0
+Spain,Master's Degree,5.0,19452.0
+Spain,Bachelor's Degree,4.0,43239.0
+Spain,Master's Degree,3.0,34591.0
+Spain,Post Graduate Degree,0.5,18156.0
+Spain,Master's Degree,7.0,36324.0
+Spain,Less than Bachelor's Degree,3.0,16215.0
+Spain,Bachelor's Degree,6.0,23352.0
+Spain,Post Graduate Degree,2.0,32429.0
+Spain,Bachelor's Degree,10.0,48644.0
+Spain,Bachelor's Degree,3.0,33510.0
+Spain,Master's Degree,8.0,49725.0
+Spain,Bachelor's Degree,0.5,17296.0
+Spain,Less than Bachelor's Degree,6.0,37834.0
+Spain,Master's Degree,5.0,34591.0
+Spain,Less than Bachelor's Degree,7.0,49725.0
+Spain,Less than Bachelor's Degree,3.0,27025.0
+Spain,Master's Degree,8.0,70264.0
+Spain,Less than Bachelor's Degree,0.5,21620.0
+Spain,Less than Bachelor's Degree,4.0,31348.0
+Spain,Master's Degree,2.0,22056.0
+Spain,Master's Degree,9.0,45401.0
+Spain,Master's Degree,5.0,25944.0
+Spain,Bachelor's Degree,7.0,59454.0
+Spain,Bachelor's Degree,0.5,19458.0
+Spain,Bachelor's Degree,3.0,70264.0
+Spain,Bachelor's Degree,2.0,28105.0
+Spain,Bachelor's Degree,9.0,24214.0
+Spain,Master's Degree,3.0,32429.0
+Spain,Master's Degree,3.0,42158.0
+Spain,Bachelor's Degree,3.0,30267.0
+Spain,Master's Degree,2.0,21079.0
+Spain,Bachelor's Degree,3.0,29186.0
+Spain,Master's Degree,5.0,37834.0
+Spain,Bachelor's Degree,5.0,41077.0
+Spain,Bachelor's Degree,5.0,60211.0
+Spain,Post Graduate Degree,5.0,92964.0
+Spain,Post Graduate Degree,5.0,27025.0
+Spain,Master's Degree,8.0,43239.0
+Spain,Bachelor's Degree,3.0,38915.0
+Spain,Post Graduate Degree,4.0,25944.0
+Spain,Less than Bachelor's Degree,3.0,27025.0
+Spain,Master's Degree,3.0,31348.0
+Spain,Post Graduate Degree,5.0,26484.0
+Spain,Master's Degree,10.0,36324.0
+Spain,Master's Degree,1.0,44320.0
+Spain,Less than Bachelor's Degree,0.5,14268.0
+Spain,Less than Bachelor's Degree,3.0,30267.0
+Spain,Bachelor's Degree,6.0,97288.0
+Spain,Master's Degree,5.0,37834.0
+Spain,Bachelor's Degree,5.0,44320.0
+Spain,Master's Degree,8.0,20760.0
+Spain,Post Graduate Degree,5.0,43239.0
+Spain,Master's Degree,2.0,35709.0
+Spain,Less than Bachelor's Degree,2.0,15134.0
+Spain,Master's Degree,10.0,54049.0
+Spain,Post Graduate Degree,4.0,29186.0
+Spain,Less than Bachelor's Degree,6.0,18552.0
+Spain,Master's Degree,0.5,32429.0
+Spain,Post Graduate Degree,0.5,14400.0
+Spain,Master's Degree,0.5,17296.0
+Spain,Less than Bachelor's Degree,4.0,37834.0
+Spain,Less than Bachelor's Degree,1.0,14376.0
+Spain,Bachelor's Degree,4.0,44320.0
+Spain,Less than Bachelor's Degree,9.0,50806.0
+Spain,Bachelor's Degree,8.0,43239.0
+Spain,Post Graduate Degree,1.0,20760.0
+Spain,Master's Degree,10.0,56211.0
+Spain,Post Graduate Degree,2.0,16860.0
+Spain,Master's Degree,7.0,19452.0
+Spain,Bachelor's Degree,4.0,25944.0
+Spain,Master's Degree,1.0,38915.0
+Spain,Bachelor's Degree,5.0,37834.0
+Spain,Post Graduate Degree,6.0,27025.0
+Spain,Bachelor's Degree,6.0,48644.0
+Spain,Master's Degree,5.0,27025.0
+Spain,Master's Degree,5.0,23352.0
+Spain,Master's Degree,7.0,46482.0
+Spain,Post Graduate Degree,3.0,24863.0
+Spain,Post Graduate Degree,6.0,51887.0
+Spain,Bachelor's Degree,3.0,39456.0
+Spain,Master's Degree,10.0,43239.0
+Spain,Bachelor's Degree,4.0,29186.0
+Spain,Post Graduate Degree,6.0,14568.0
+Spain,Less than Bachelor's Degree,5.0,38916.0
+Spain,Less than Bachelor's Degree,10.0,54481.0
+Spain,Master's Degree,2.0,20647.0
+Spain,Bachelor's Degree,2.0,21079.0
+Spain,Master's Degree,2.0,19452.0
+Spain,Less than Bachelor's Degree,3.0,36324.0
+Spain,Master's Degree,7.0,30267.0
+Spain,Bachelor's Degree,10.0,43239.0
+Spain,Bachelor's Degree,4.0,28105.0
+Spain,Master's Degree,10.0,22701.0
+Spain,Bachelor's Degree,10.0,28105.0
+Spain,Master's Degree,3.0,34591.0
+Spain,Less than Bachelor's Degree,10.0,43239.0
+Spain,Bachelor's Degree,1.0,20539.0
+Spain,Less than Bachelor's Degree,6.0,19452.0
+Spain,Master's Degree,10.0,43239.0
+Spain,Less than Bachelor's Degree,5.0,36324.0
+Spain,Bachelor's Degree,8.0,45942.0
+Spain,Master's Degree,5.0,16212.0
+Spain,Post Graduate Degree,4.0,19008.0
+Spain,Less than Bachelor's Degree,2.0,35672.0
+Spain,Master's Degree,10.0,64859.0
+Spain,Less than Bachelor's Degree,7.0,37834.0
+Spain,Less than Bachelor's Degree,1.0,17296.0
+Spain,Master's Degree,6.0,48644.0
+Spain,Less than Bachelor's Degree,2.0,12456.0
+Spain,Post Graduate Degree,7.0,21620.0
+Spain,Bachelor's Degree,7.0,27025.0
+Spain,Master's Degree,5.0,30267.0
+Spain,Bachelor's Degree,3.0,25944.0
+Spain,Master's Degree,10.0,39996.0
+Spain,Less than Bachelor's Degree,9.0,23352.0
+Spain,Less than Bachelor's Degree,0.5,14916.0
+Spain,Master's Degree,2.0,23352.0
+Spain,Bachelor's Degree,6.0,41077.0
+Spain,Bachelor's Degree,5.0,48644.0
+Spain,Master's Degree,7.0,36324.0
+Spain,Master's Degree,2.0,43239.0
+Spain,Post Graduate Degree,0.5,23352.0
+Spain,Less than Bachelor's Degree,2.0,21620.0
+Spain,Master's Degree,10.0,44861.0
+Spain,Post Graduate Degree,9.0,57292.0
+Spain,Master's Degree,0.5,20539.0
+Spain,Bachelor's Degree,6.0,50806.0
+Spain,Bachelor's Degree,3.0,22701.0
+Spain,Post Graduate Degree,5.0,43239.0
+Spain,Master's Degree,9.0,64859.0
+Spain,Bachelor's Degree,6.0,48644.0
+Spain,Master's Degree,2.0,32429.0
+Spain,Less than Bachelor's Degree,7.0,48644.0
+Spain,Less than Bachelor's Degree,10.0,24648.0
+Spain,Bachelor's Degree,4.0,35672.0
+Spain,Bachelor's Degree,8.0,59454.0
+Spain,Bachelor's Degree,2.0,14268.0
+Spain,Less than Bachelor's Degree,2.0,20539.0
+Spain,Bachelor's Degree,4.0,48644.0
+Spain,Bachelor's Degree,4.0,34591.0
+Spain,Bachelor's Degree,8.0,36753.0
+Spain,Master's Degree,5.0,32429.0
+Spain,Master's Degree,7.0,48644.0
+Spain,Less than Bachelor's Degree,0.5,12972.0
+Spain,Master's Degree,6.0,65000.0
+Spain,Master's Degree,6.0,57292.0
+Spain,Master's Degree,3.0,56424.0
+Spain,Master's Degree,5.0,25944.0
+Spain,Bachelor's Degree,3.0,32429.0
+Spain,Master's Degree,5.0,18804.0
+Spain,Bachelor's Degree,5.0,32429.0
+Spain,Bachelor's Degree,8.0,59454.0
+Spain,Less than Bachelor's Degree,7.0,32970.0
+Spain,Bachelor's Degree,10.0,50824.0
+Spain,Bachelor's Degree,10.0,43239.0
+Spain,Bachelor's Degree,2.0,43239.0
+Spain,Master's Degree,5.0,41077.0
+Spain,Master's Degree,2.0,28105.0
+Spain,Master's Degree,9.0,48644.0
+Spain,Less than Bachelor's Degree,0.5,18372.0
+Spain,Bachelor's Degree,3.0,45401.0
+Spain,Master's Degree,10.0,41077.0
+Spain,Bachelor's Degree,8.0,47563.0
+Spain,Bachelor's Degree,1.0,25944.0
+Spain,Bachelor's Degree,9.0,64859.0
+Spain,Master's Degree,4.0,37834.0
+Spain,Post Graduate Degree,0.5,16860.0
+Spain,Less than Bachelor's Degree,4.0,41077.0
+Spain,Bachelor's Degree,1.0,16860.0
+Spain,Bachelor's Degree,6.0,48644.0
+Spain,Post Graduate Degree,1.0,16212.0
+Spain,Less than Bachelor's Degree,7.0,54049.0
+Spain,Post Graduate Degree,5.0,16212.0
+Spain,Less than Bachelor's Degree,3.0,16860.0
+Spain,Master's Degree,8.0,102693.0
+Spain,Less than Bachelor's Degree,5.0,29186.0
+Spain,Post Graduate Degree,3.0,23782.0
+Spain,Master's Degree,4.0,48644.0
+Spain,Less than Bachelor's Degree,2.0,32429.0
+Spain,Post Graduate Degree,7.0,25944.0
+Spain,Master's Degree,7.0,25944.0
+Spain,Post Graduate Degree,4.0,36753.0
+Spain,Less than Bachelor's Degree,2.0,27025.0
+Spain,Less than Bachelor's Degree,4.0,64859.0
+Spain,Bachelor's Degree,6.0,32429.0
+Spain,Less than Bachelor's Degree,7.0,191000.0
+Spain,Less than Bachelor's Degree,6.0,31128.0
+Spain,Master's Degree,5.0,34591.0
+Spain,Master's Degree,6.0,28646.0
+Spain,Less than Bachelor's Degree,5.0,54049.0
+Spain,Post Graduate Degree,2.0,31348.0
+Spain,Less than Bachelor's Degree,7.0,81074.0
+Spain,Master's Degree,3.0,29186.0
+Spain,Bachelor's Degree,7.0,46482.0
+Spain,Post Graduate Degree,9.0,25944.0
+Spain,Bachelor's Degree,2.0,19458.0
+Spain,Post Graduate Degree,3.0,17404.0
+Spain,Bachelor's Degree,4.0,41618.0
+Spain,Bachelor's Degree,3.0,32429.0
+Spain,Master's Degree,5.0,32429.0
+Spain,Bachelor's Degree,10.0,79176.0
+Spain,Less than Bachelor's Degree,4.0,35132.0
+Spain,Less than Bachelor's Degree,10.0,54049.0
+Spain,Bachelor's Degree,3.0,28105.0
+Spain,Less than Bachelor's Degree,10.0,72426.0
+Spain,Master's Degree,10.0,162147.0
+Spain,Master's Degree,7.0,38915.0
+Spain,Bachelor's Degree,7.0,41856.0
+Spain,Master's Degree,5.0,45401.0
+Spain,Less than Bachelor's Degree,10.0,69183.0
+Spain,Less than Bachelor's Degree,7.0,59454.0
+Spain,Bachelor's Degree,6.0,34591.0
+Spain,Less than Bachelor's Degree,7.0,43239.0
+Spain,Master's Degree,5.0,62156.0
+Spain,Master's Degree,5.0,34591.0
+Spain,Less than Bachelor's Degree,1.0,7464.0
+Spain,Master's Degree,9.0,48644.0
+Spain,Less than Bachelor's Degree,4.0,18377.0
+Spain,Master's Degree,6.0,20760.0
+Spain,Post Graduate Degree,3.0,29149.0
+Spain,Master's Degree,10.0,73507.0
+Spain,Bachelor's Degree,7.0,54049.0
+Spain,Less than Bachelor's Degree,6.0,47563.0
+Spain,Master's Degree,5.0,22701.0
+Spain,Bachelor's Degree,8.0,64859.0
+Spain,Master's Degree,10.0,37620.0
+Spain,Less than Bachelor's Degree,3.0,20760.0
+Spain,Bachelor's Degree,1.0,28105.0
+Spain,Bachelor's Degree,7.0,19452.0
+Spain,Master's Degree,0.5,19458.0
+Spain,Master's Degree,2.0,17296.0
+Spain,Post Graduate Degree,6.0,67021.0
+Spain,Bachelor's Degree,1.0,17296.0
+Spain,Post Graduate Degree,4.0,38916.0
+Spain,Bachelor's Degree,4.0,48644.0
+Spain,Post Graduate Degree,4.0,35672.0
+Spain,Bachelor's Degree,2.0,31348.0
+Spain,Post Graduate Degree,2.0,15134.0
+Spain,Bachelor's Degree,7.0,97284.0
+Spain,Post Graduate Degree,5.0,23782.0
+Spain,Master's Degree,7.0,34591.0
+Spain,Bachelor's Degree,5.0,21079.0
+Spain,Bachelor's Degree,9.0,54049.0
+Spain,Master's Degree,6.0,67452.0
+Spain,Bachelor's Degree,8.0,48644.0
+Spain,Bachelor's Degree,2.0,19998.0
+Spain,Less than Bachelor's Degree,2.0,21620.0
+Spain,Bachelor's Degree,5.0,31348.0
+Spain,Bachelor's Degree,4.0,54049.0
+Spain,Master's Degree,4.0,32429.0
+Spain,Bachelor's Degree,2.0,30267.0
+Spain,Master's Degree,4.0,28646.0
+Spain,Less than Bachelor's Degree,7.0,36753.0
+Spain,Less than Bachelor's Degree,0.5,12972.0
+Spain,Post Graduate Degree,10.0,35672.0
+Spain,Less than Bachelor's Degree,3.0,29186.0
+Spain,Bachelor's Degree,10.0,58373.0
+Spain,Bachelor's Degree,5.0,25944.0
+Spain,Master's Degree,3.0,15674.0
+Spain,Bachelor's Degree,6.0,46698.0
+Spain,Master's Degree,3.0,28248.0
+Spain,Bachelor's Degree,9.0,46482.0
+Spain,Less than Bachelor's Degree,4.0,29186.0
+Spain,Master's Degree,9.0,86478.0
+Spain,Bachelor's Degree,4.0,56103.0
+Spain,Post Graduate Degree,7.0,32424.0
+Spain,Bachelor's Degree,5.0,97288.0
+Spain,Master's Degree,8.0,48644.0
+Spain,Bachelor's Degree,5.0,27025.0
+Spain,Post Graduate Degree,7.0,42158.0
+Spain,Master's Degree,10.0,37834.0
+Spain,Bachelor's Degree,10.0,12972.0
+Spain,Post Graduate Degree,2.0,30267.0
+Spain,Bachelor's Degree,6.0,29186.0
+Spain,Less than Bachelor's Degree,7.0,28848.0
+Spain,Master's Degree,1.0,26328.0
+Spain,Less than Bachelor's Degree,10.0,39996.0
+Spain,Master's Degree,4.0,32429.0
+Spain,Post Graduate Degree,1.0,19458.0
+Spain,Master's Degree,3.0,17952.0
+Spain,Master's Degree,3.0,29186.0
+Spain,Less than Bachelor's Degree,3.0,30267.0
+Spain,Bachelor's Degree,4.0,33510.0
+Spain,Post Graduate Degree,6.0,74047.0
+Spain,Less than Bachelor's Degree,2.0,21620.0
+Spain,Master's Degree,2.0,35672.0
+Spain,Master's Degree,1.0,22701.0
+Spain,Bachelor's Degree,8.0,46482.0
+Spain,Bachelor's Degree,2.0,39996.0
+Spain,Master's Degree,6.0,55128.0
+Spain,Less than Bachelor's Degree,5.0,45401.0
+Spain,Post Graduate Degree,8.0,32424.0
+Spain,Post Graduate Degree,5.0,25403.0
+Spain,Bachelor's Degree,7.0,48644.0
+Spain,Bachelor's Degree,2.0,43239.0
+Spain,Master's Degree,2.0,27025.0
+Spain,Bachelor's Degree,0.5,14053.0
+Spain,Master's Degree,3.0,27025.0
+Spain,Master's Degree,6.0,129718.0
+Spain,Post Graduate Degree,3.0,49725.0
+Spain,Post Graduate Degree,3.0,37834.0
+Spain,Less than Bachelor's Degree,4.0,64859.0
+Spain,Bachelor's Degree,10.0,43239.0
+Spain,Bachelor's Degree,3.0,54049.0
+Spain,Less than Bachelor's Degree,1.0,16215.0
+Spain,Master's Degree,7.0,37834.0
+Spain,Master's Degree,1.0,30267.0
+Spain,Bachelor's Degree,2.0,29186.0
+Spain,Master's Degree,2.0,15564.0
+Spain,Master's Degree,2.0,17434.0
+Spain,Less than Bachelor's Degree,2.0,14268.0
+Spain,Master's Degree,9.0,51076.0
+Spain,Less than Bachelor's Degree,4.0,75669.0
+Spain,Bachelor's Degree,10.0,75669.0
+Spain,Master's Degree,5.0,45401.0
+Spain,Less than Bachelor's Degree,3.0,25944.0
+Spain,Master's Degree,6.0,56211.0
+Spain,Post Graduate Degree,6.0,25944.0
+Spain,Master's Degree,4.0,21408.0
+Spain,Master's Degree,2.0,12972.0
+Spain,Post Graduate Degree,1.0,88000.0
+Spain,Master's Degree,7.0,19458.0
+Spain,Less than Bachelor's Degree,2.0,30267.0
+Spain,Master's Degree,2.0,19452.0
+Spain,Less than Bachelor's Degree,3.0,30267.0
+Spain,Bachelor's Degree,2.0,51887.0
+Spain,Bachelor's Degree,3.0,41077.0
+Spain,Master's Degree,9.0,26964.0
+Spain,Less than Bachelor's Degree,8.0,48644.0
+Spain,Post Graduate Degree,9.0,43239.0
+Spain,Less than Bachelor's Degree,5.0,15150.0
+Spain,Bachelor's Degree,0.5,14268.0
+Spain,Bachelor's Degree,9.0,41077.0
+Spain,Master's Degree,5.0,33510.0
+Spain,Master's Degree,3.0,34591.0
+Spain,Less than Bachelor's Degree,6.0,37834.0
+Spain,Bachelor's Degree,10.0,64859.0
+Spain,Less than Bachelor's Degree,2.0,16215.0
+Spain,Less than Bachelor's Degree,10.0,43239.0
+Spain,Less than Bachelor's Degree,7.0,34591.0
+Spain,Master's Degree,3.0,15564.0
+Spain,Post Graduate Degree,7.0,45401.0
+Spain,Post Graduate Degree,3.0,28536.0
+Spain,Bachelor's Degree,10.0,46482.0
+Spain,Less than Bachelor's Degree,1.0,36753.0
+Spain,Master's Degree,0.5,24322.0
+Spain,Less than Bachelor's Degree,0.5,14136.0
+Spain,Post Graduate Degree,5.0,34380.0
+Spain,Master's Degree,0.5,21079.0
+Spain,Less than Bachelor's Degree,1.0,33510.0
+Spain,Post Graduate Degree,2.0,15564.0
+Spain,Master's Degree,5.0,19452.0
+Spain,Less than Bachelor's Degree,4.0,27565.0
+Spain,Master's Degree,7.0,56211.0
+Spain,Less than Bachelor's Degree,3.0,12972.0
+Spain,Bachelor's Degree,4.0,14268.0
+Spain,Bachelor's Degree,2.0,51887.0
+Spain,Less than Bachelor's Degree,5.0,43239.0
+Spain,Less than Bachelor's Degree,8.0,21620.0
+Spain,Bachelor's Degree,0.5,15512.0
+Spain,Master's Degree,4.0,16860.0
+Spain,Bachelor's Degree,5.0,33510.0
+Spain,Bachelor's Degree,0.5,18156.0
+Spain,Less than Bachelor's Degree,0.5,16860.0
+Spain,Bachelor's Degree,4.0,39996.0
+Spain,Bachelor's Degree,5.0,49725.0
+Spain,Post Graduate Degree,2.0,19452.0
+Spain,Less than Bachelor's Degree,5.0,118908.0
+Spain,Master's Degree,4.0,37294.0
+Spain,Master's Degree,10.0,56211.0
+Spain,Master's Degree,10.0,56211.0
+Spain,Master's Degree,2.0,18156.0
+Spain,Bachelor's Degree,4.0,32429.0
+Spain,Bachelor's Degree,3.0,97288.0
+Spain,Bachelor's Degree,7.0,36972.0
+Spain,Less than Bachelor's Degree,5.0,54049.0
+Spain,Bachelor's Degree,4.0,29832.0
+Spain,Less than Bachelor's Degree,5.0,30267.0
+Spain,Master's Degree,6.0,44861.0
+Spain,Less than Bachelor's Degree,0.5,14377.0
+Spain,Master's Degree,3.0,41942.0
+Spain,Less than Bachelor's Degree,1.0,19998.0
+Spain,Bachelor's Degree,6.0,42804.0
+Spain,Master's Degree,2.0,18377.0
+Spain,Bachelor's Degree,9.0,55130.0
+Spain,Master's Degree,4.0,26030.0
+Spain,Less than Bachelor's Degree,10.0,51888.0
+Spain,Post Graduate Degree,7.0,35672.0
+Spain,Less than Bachelor's Degree,10.0,37834.0
+Spain,Bachelor's Degree,5.0,45401.0
+Spain,Bachelor's Degree,3.0,41618.0
+Spain,Less than Bachelor's Degree,5.0,41077.0
+Spain,Master's Degree,0.5,16215.0
+Spain,Bachelor's Degree,1.0,24863.0
+Spain,Master's Degree,1.0,9084.0
+Spain,Bachelor's Degree,6.0,91883.0
+Spain,Less than Bachelor's Degree,0.5,20760.0
+Spain,Less than Bachelor's Degree,7.0,90000.0
+Spain,Master's Degree,8.0,59454.0
+Spain,Bachelor's Degree,1.0,16860.0
+Spain,Master's Degree,0.5,24322.0
+Spain,Less than Bachelor's Degree,4.0,32429.0
+Spain,Master's Degree,6.0,43239.0
+Spain,Bachelor's Degree,3.0,32429.0
+Spain,Bachelor's Degree,1.0,24720.0
+Spain,Master's Degree,9.0,61616.0
+Spain,Less than Bachelor's Degree,5.0,19452.0
+Spain,Bachelor's Degree,2.0,20539.0
+Spain,Less than Bachelor's Degree,6.0,54564.0
+Spain,Bachelor's Degree,8.0,59454.0
+Spain,Less than Bachelor's Degree,10.0,43239.0
+Spain,Master's Degree,3.0,20760.0
+Spain,Less than Bachelor's Degree,2.0,23782.0
+Spain,Master's Degree,7.0,38915.0
+Spain,Master's Degree,7.0,37834.0
+Spain,Master's Degree,6.0,54049.0
+Spain,Master's Degree,3.0,54049.0

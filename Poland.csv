@@ -1,0 +1,626 @@
+Country,EdLevel,YearsCodePro,Salary
+Poland,Bachelor's Degree,8.0,45564.0
+Poland,Bachelor's Degree,4.0,27336.0
+Poland,Bachelor's Degree,3.0,16704.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Master's Degree,6.0,60744.0
+Poland,Less than Bachelor's Degree,3.0,41004.0
+Poland,Master's Degree,2.0,27844.0
+Poland,Master's Degree,1.0,9720.0
+Poland,Bachelor's Degree,4.0,55200.0
+Poland,Master's Degree,5.0,66828.0
+Poland,Less than Bachelor's Degree,9.0,28860.0
+Poland,Master's Degree,7.0,15192.0
+Poland,Master's Degree,6.0,45564.0
+Poland,Less than Bachelor's Degree,3.0,24300.0
+Poland,Less than Bachelor's Degree,7.0,36450.0
+Poland,Master's Degree,4.0,47076.0
+Poland,Less than Bachelor's Degree,4.0,25824.0
+Poland,Master's Degree,8.0,45564.0
+Poland,Master's Degree,3.0,25824.0
+Poland,Master's Degree,3.0,30372.0
+Poland,Master's Degree,10.0,36444.0
+Poland,Master's Degree,1.0,13668.0
+Poland,Less than Bachelor's Degree,2.0,15192.0
+Poland,Bachelor's Degree,3.0,42528.0
+Poland,Bachelor's Degree,5.0,121500.0
+Poland,Less than Bachelor's Degree,2.0,27336.0
+Poland,Master's Degree,9.0,45564.0
+Poland,Post Graduate Degree,10.0,13968.0
+Poland,Bachelor's Degree,5.0,85000.0
+Poland,Master's Degree,6.0,100000.0
+Poland,Bachelor's Degree,3.0,34020.0
+Poland,Less than Bachelor's Degree,0.5,12756.0
+Poland,Master's Degree,10.0,45564.0
+Poland,Master's Degree,6.0,47988.0
+Poland,Bachelor's Degree,7.0,30372.0
+Poland,Master's Degree,6.0,45564.0
+Poland,Master's Degree,3.0,19740.0
+Poland,Less than Bachelor's Degree,5.0,30372.0
+Poland,Bachelor's Degree,1.0,12144.0
+Poland,Bachelor's Degree,4.0,43440.0
+Poland,Less than Bachelor's Degree,5.0,30372.0
+Poland,Bachelor's Degree,2.0,30372.0
+Poland,Master's Degree,3.0,24300.0
+Poland,Less than Bachelor's Degree,10.0,21264.0
+Poland,Bachelor's Degree,1.0,20052.0
+Poland,Master's Degree,9.0,72900.0
+Poland,Post Graduate Degree,1.0,36444.0
+Poland,Master's Degree,2.0,28860.0
+Poland,Master's Degree,5.0,48600.0
+Poland,Less than Bachelor's Degree,6.0,60744.0
+Poland,Master's Degree,2.0,15192.0
+Poland,Master's Degree,4.0,48600.0
+Poland,Master's Degree,6.0,22776.0
+Poland,Less than Bachelor's Degree,2.0,34932.0
+Poland,Bachelor's Degree,5.0,36444.0
+Poland,Bachelor's Degree,5.0,36444.0
+Poland,Master's Degree,4.0,63792.0
+Poland,Master's Degree,5.0,18228.0
+Poland,Master's Degree,5.0,26724.0
+Poland,Master's Degree,2.0,26724.0
+Poland,Master's Degree,4.0,42528.0
+Poland,Bachelor's Degree,7.0,43031.0
+Poland,Master's Degree,1.0,24300.0
+Poland,Less than Bachelor's Degree,9.0,30372.0
+Poland,Master's Degree,2.0,28860.0
+Poland,Master's Degree,10.0,56196.0
+Poland,Master's Degree,10.0,48600.0
+Poland,Less than Bachelor's Degree,5.0,33408.0
+Poland,Master's Degree,9.0,54672.0
+Poland,Master's Degree,5.0,41004.0
+Poland,Bachelor's Degree,9.0,51024.0
+Poland,Bachelor's Degree,7.0,28860.0
+Poland,Bachelor's Degree,0.5,16200.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Master's Degree,7.0,31140.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Bachelor's Degree,7.0,34932.0
+Poland,Less than Bachelor's Degree,2.0,19440.0
+Poland,Bachelor's Degree,4.0,45562.0
+Poland,Bachelor's Degree,2.0,18228.0
+Poland,Less than Bachelor's Degree,0.5,16104.0
+Poland,Bachelor's Degree,3.0,16704.0
+Poland,Master's Degree,1.0,24300.0
+Poland,Bachelor's Degree,7.0,37968.0
+Poland,Less than Bachelor's Degree,2.0,21264.0
+Poland,Less than Bachelor's Degree,3.0,27948.0
+Poland,Bachelor's Degree,4.0,41004.0
+Poland,Bachelor's Degree,5.0,43537.0
+Poland,Master's Degree,3.0,10932.0
+Poland,Less than Bachelor's Degree,4.0,19740.0
+Poland,Bachelor's Degree,1.0,10020.0
+Poland,Master's Degree,10.0,36444.0
+Poland,Bachelor's Degree,4.0,16704.0
+Poland,Bachelor's Degree,8.0,86062.0
+Poland,Master's Degree,6.0,44550.0
+Poland,Bachelor's Degree,6.0,39492.0
+Poland,Master's Degree,4.0,45564.0
+Poland,Master's Degree,6.0,150000.0
+Poland,Less than Bachelor's Degree,2.0,21264.0
+Poland,Bachelor's Degree,5.0,42528.0
+Poland,Less than Bachelor's Degree,2.0,15192.0
+Poland,Post Graduate Degree,2.0,33408.0
+Poland,Master's Degree,4.0,9108.0
+Poland,Post Graduate Degree,6.0,36444.0
+Poland,Bachelor's Degree,1.0,15792.0
+Poland,Less than Bachelor's Degree,6.0,33408.0
+Poland,Less than Bachelor's Degree,0.5,18228.0
+Poland,Less than Bachelor's Degree,5.0,21264.0
+Poland,Master's Degree,3.0,72900.0
+Poland,Bachelor's Degree,6.0,36444.0
+Poland,Less than Bachelor's Degree,3.0,10632.0
+Poland,Master's Degree,5.0,40500.0
+Poland,Bachelor's Degree,4.0,27336.0
+Poland,Bachelor's Degree,10.0,25824.0
+Poland,Bachelor's Degree,3.0,25512.0
+Poland,Post Graduate Degree,0.5,21264.0
+Poland,Master's Degree,10.0,48600.0
+Poland,Master's Degree,6.0,40500.0
+Poland,Bachelor's Degree,3.0,23688.0
+Poland,Bachelor's Degree,3.0,36444.0
+Poland,Bachelor's Degree,10.0,75936.0
+Poland,Bachelor's Degree,1.0,21864.0
+Poland,Less than Bachelor's Degree,8.0,39492.0
+Poland,Less than Bachelor's Degree,1.0,14580.0
+Poland,Bachelor's Degree,2.0,22776.0
+Poland,Less than Bachelor's Degree,1.0,12144.0
+Poland,Less than Bachelor's Degree,5.0,39492.0
+Poland,Bachelor's Degree,2.0,23688.0
+Poland,Less than Bachelor's Degree,2.0,30372.0
+Poland,Master's Degree,3.0,27336.0
+Poland,Bachelor's Degree,2.0,44040.0
+Poland,Master's Degree,4.0,16104.0
+Poland,Master's Degree,5.0,27336.0
+Poland,Master's Degree,1.0,24300.0
+Poland,Less than Bachelor's Degree,5.0,21264.0
+Poland,Less than Bachelor's Degree,3.0,47388.0
+Poland,Master's Degree,5.0,15192.0
+Poland,Less than Bachelor's Degree,6.0,45564.0
+Poland,Bachelor's Degree,9.0,33408.0
+Poland,Bachelor's Degree,3.0,30588.0
+Poland,Master's Degree,4.0,27336.0
+Poland,Bachelor's Degree,3.0,20352.0
+Poland,Bachelor's Degree,5.0,50625.0
+Poland,Bachelor's Degree,3.0,27036.0
+Poland,Bachelor's Degree,1.0,21264.0
+Poland,Master's Degree,9.0,70875.0
+Poland,Less than Bachelor's Degree,2.0,24600.0
+Poland,Bachelor's Degree,2.0,21264.0
+Poland,Bachelor's Degree,6.0,42528.0
+Poland,Master's Degree,9.0,37969.0
+Poland,Less than Bachelor's Degree,5.0,30372.0
+Poland,Less than Bachelor's Degree,3.0,33408.0
+Poland,Master's Degree,2.0,12144.0
+Poland,Bachelor's Degree,2.0,38268.0
+Poland,Bachelor's Degree,2.0,13668.0
+Poland,Post Graduate Degree,5.0,19740.0
+Poland,Master's Degree,10.0,31896.0
+Poland,Less than Bachelor's Degree,3.0,36444.0
+Poland,Master's Degree,8.0,43740.0
+Poland,Master's Degree,2.0,24300.0
+Poland,Bachelor's Degree,5.0,29616.0
+Poland,Less than Bachelor's Degree,2.0,12144.0
+Poland,Bachelor's Degree,5.0,65800.0
+Poland,Bachelor's Degree,5.0,31641.0
+Poland,Bachelor's Degree,4.0,49668.0
+Poland,Less than Bachelor's Degree,1.0,12144.0
+Poland,Master's Degree,0.5,10632.0
+Poland,Bachelor's Degree,8.0,49612.0
+Poland,Less than Bachelor's Degree,6.0,75936.0
+Poland,Master's Degree,10.0,42528.0
+Poland,Master's Degree,1.0,15192.0
+Poland,Bachelor's Degree,2.0,25056.0
+Poland,Master's Degree,6.0,31896.0
+Poland,Less than Bachelor's Degree,3.0,13368.0
+Poland,Post Graduate Degree,9.0,24300.0
+Poland,Master's Degree,10.0,88594.0
+Poland,Bachelor's Degree,2.0,19740.0
+Poland,Master's Degree,7.0,43284.0
+Poland,Master's Degree,10.0,53160.0
+Poland,Master's Degree,2.0,27336.0
+Poland,Less than Bachelor's Degree,4.0,51636.0
+Poland,Master's Degree,4.0,51636.0
+Poland,Less than Bachelor's Degree,7.0,26280.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Bachelor's Degree,5.0,36444.0
+Poland,Master's Degree,8.0,72900.0
+Poland,Master's Degree,3.0,31896.0
+Poland,Bachelor's Degree,5.0,50625.0
+Poland,Master's Degree,8.0,51636.0
+Poland,Master's Degree,2.0,17719.0
+Poland,Master's Degree,2.0,27336.0
+Poland,Master's Degree,10.0,33408.0
+Poland,Bachelor's Degree,2.0,15192.0
+Poland,Master's Degree,4.0,32906.0
+Poland,Master's Degree,1.0,12144.0
+Poland,Post Graduate Degree,8.0,31584.0
+Poland,Bachelor's Degree,3.0,15192.0
+Poland,Master's Degree,3.0,63281.0
+Poland,Bachelor's Degree,3.0,30372.0
+Poland,Bachelor's Degree,5.0,48600.0
+Poland,Less than Bachelor's Degree,0.5,10632.0
+Poland,Bachelor's Degree,2.0,24300.0
+Poland,Less than Bachelor's Degree,0.5,9108.0
+Poland,Bachelor's Degree,3.0,36444.0
+Poland,Bachelor's Degree,1.0,11844.0
+Poland,Less than Bachelor's Degree,4.0,44904.0
+Poland,Master's Degree,2.0,15492.0
+Poland,Master's Degree,10.0,18228.0
+Poland,Bachelor's Degree,4.0,36444.0
+Poland,Bachelor's Degree,1.0,25512.0
+Poland,Less than Bachelor's Degree,5.0,15192.0
+Poland,Master's Degree,8.0,54672.0
+Poland,Bachelor's Degree,7.0,42528.0
+Poland,Master's Degree,1.0,24300.0
+Poland,Master's Degree,3.0,30372.0
+Poland,Master's Degree,7.0,12912.0
+Poland,Bachelor's Degree,2.0,69600.0
+Poland,Master's Degree,4.0,27036.0
+Poland,Master's Degree,2.0,22776.0
+Poland,Master's Degree,1.0,15192.0
+Poland,Master's Degree,2.0,12144.0
+Poland,Less than Bachelor's Degree,8.0,65604.0
+Poland,Bachelor's Degree,5.0,82008.0
+Poland,Bachelor's Degree,5.0,42528.0
+Poland,Less than Bachelor's Degree,2.0,36444.0
+Poland,Bachelor's Degree,4.0,18731.0
+Poland,Master's Degree,10.0,45564.0
+Poland,Master's Degree,3.0,13668.0
+Poland,Bachelor's Degree,6.0,50124.0
+Poland,Master's Degree,3.0,29292.0
+Poland,Bachelor's Degree,7.0,51891.0
+Poland,Master's Degree,7.0,45564.0
+Poland,Master's Degree,4.0,40704.0
+Poland,Less than Bachelor's Degree,0.5,24300.0
+Poland,Less than Bachelor's Degree,6.0,19440.0
+Poland,Master's Degree,3.0,45564.0
+Poland,Less than Bachelor's Degree,1.0,10932.0
+Poland,Less than Bachelor's Degree,2.0,18228.0
+Poland,Less than Bachelor's Degree,10.0,51636.0
+Poland,Master's Degree,5.0,40500.0
+Poland,Master's Degree,6.0,41004.0
+Poland,Master's Degree,7.0,69864.0
+Poland,Bachelor's Degree,3.0,25312.0
+Poland,Less than Bachelor's Degree,5.0,28068.0
+Poland,Master's Degree,5.0,140000.0
+Poland,Master's Degree,5.0,18225.0
+Poland,Bachelor's Degree,3.0,30372.0
+Poland,Less than Bachelor's Degree,5.0,19740.0
+Poland,Less than Bachelor's Degree,10.0,33408.0
+Poland,Bachelor's Degree,5.0,62268.0
+Poland,Less than Bachelor's Degree,3.0,13668.0
+Poland,Master's Degree,9.0,68040.0
+Poland,Bachelor's Degree,5.0,28860.0
+Poland,Less than Bachelor's Degree,1.0,15192.0
+Poland,Master's Degree,5.0,30372.0
+Poland,Bachelor's Degree,4.0,36444.0
+Poland,Bachelor's Degree,3.0,30492.0
+Poland,Bachelor's Degree,2.0,10968.0
+Poland,Bachelor's Degree,6.0,30372.0
+Poland,Master's Degree,5.0,63281.0
+Poland,Master's Degree,3.0,15192.0
+Poland,Bachelor's Degree,7.0,50625.0
+Poland,Master's Degree,2.0,13668.0
+Poland,Master's Degree,2.0,18228.0
+Poland,Bachelor's Degree,6.0,26940.0
+Poland,Master's Degree,2.0,11244.0
+Poland,Less than Bachelor's Degree,10.0,54672.0
+Poland,Less than Bachelor's Degree,8.0,54672.0
+Poland,Bachelor's Degree,0.5,21264.0
+Poland,Less than Bachelor's Degree,2.0,36444.0
+Poland,Less than Bachelor's Degree,3.0,19740.0
+Poland,Bachelor's Degree,4.0,39492.0
+Poland,Bachelor's Degree,5.0,42528.0
+Poland,Master's Degree,8.0,60744.0
+Poland,Bachelor's Degree,6.0,23532.0
+Poland,Less than Bachelor's Degree,7.0,45564.0
+Poland,Master's Degree,6.0,75936.0
+Poland,Less than Bachelor's Degree,1.0,21264.0
+Poland,Bachelor's Degree,3.0,44040.0
+Poland,Master's Degree,1.0,25824.0
+Poland,Bachelor's Degree,1.0,22776.0
+Poland,Master's Degree,3.0,30372.0
+Poland,Less than Bachelor's Degree,6.0,30372.0
+Poland,Master's Degree,8.0,47532.0
+Poland,Less than Bachelor's Degree,3.0,36444.0
+Poland,Master's Degree,4.0,37968.0
+Poland,Bachelor's Degree,3.0,51192.0
+Poland,Master's Degree,5.0,36444.0
+Poland,Master's Degree,5.0,54672.0
+Poland,Master's Degree,8.0,68344.0
+Poland,Less than Bachelor's Degree,5.0,33408.0
+Poland,Bachelor's Degree,4.0,27336.0
+Poland,Master's Degree,4.0,19740.0
+Poland,Master's Degree,8.0,34941.0
+Poland,Bachelor's Degree,4.0,40704.0
+Poland,Bachelor's Degree,6.0,39492.0
+Poland,Bachelor's Degree,7.0,28248.0
+Poland,Less than Bachelor's Degree,1.0,36444.0
+Poland,Less than Bachelor's Degree,7.0,48600.0
+Poland,Bachelor's Degree,7.0,29856.0
+Poland,Bachelor's Degree,2.0,15192.0
+Poland,Less than Bachelor's Degree,9.0,48600.0
+Poland,Bachelor's Degree,6.0,30372.0
+Poland,Less than Bachelor's Degree,2.0,30372.0
+Poland,Less than Bachelor's Degree,0.5,13668.0
+Poland,Bachelor's Degree,1.0,21264.0
+Poland,Bachelor's Degree,8.0,35437.0
+Poland,Master's Degree,5.0,41616.0
+Poland,Bachelor's Degree,4.0,15192.0
+Poland,Less than Bachelor's Degree,1.0,15192.0
+Poland,Master's Degree,9.0,28248.0
+Poland,Less than Bachelor's Degree,3.0,25512.0
+Poland,Bachelor's Degree,7.0,20520.0
+Poland,Bachelor's Degree,2.0,24300.0
+Poland,Bachelor's Degree,5.0,36444.0
+Poland,Bachelor's Degree,9.0,56196.0
+Poland,Bachelor's Degree,2.0,24300.0
+Poland,Less than Bachelor's Degree,2.0,30372.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Master's Degree,8.0,42528.0
+Poland,Master's Degree,5.0,50124.0
+Poland,Master's Degree,8.0,36444.0
+Poland,Master's Degree,3.0,63792.0
+Poland,Master's Degree,2.0,42528.0
+Poland,Master's Degree,7.0,29124.0
+Poland,Master's Degree,2.0,45564.0
+Poland,Master's Degree,6.0,46828.0
+Poland,Master's Degree,8.0,48600.0
+Poland,Master's Degree,2.0,45564.0
+Poland,Bachelor's Degree,4.0,42528.0
+Poland,Bachelor's Degree,3.0,21264.0
+Poland,Bachelor's Degree,6.0,41004.0
+Poland,Bachelor's Degree,2.0,37462.0
+Poland,Less than Bachelor's Degree,4.0,37356.0
+Poland,Less than Bachelor's Degree,3.0,19740.0
+Poland,Master's Degree,7.0,42528.0
+Poland,Bachelor's Degree,1.0,42528.0
+Poland,Bachelor's Degree,9.0,22776.0
+Poland,Bachelor's Degree,2.0,21264.0
+Poland,Master's Degree,5.0,21504.0
+Poland,Bachelor's Degree,6.0,39492.0
+Poland,Less than Bachelor's Degree,3.0,75936.0
+Poland,Bachelor's Degree,2.0,25512.0
+Poland,Less than Bachelor's Degree,2.0,18228.0
+Poland,Bachelor's Degree,6.0,54675.0
+Poland,Bachelor's Degree,3.0,16404.0
+Poland,Less than Bachelor's Degree,9.0,75936.0
+Poland,Less than Bachelor's Degree,0.5,9108.0
+Poland,Less than Bachelor's Degree,2.0,18228.0
+Poland,Master's Degree,5.0,54672.0
+Poland,Bachelor's Degree,10.0,92492.0
+Poland,Master's Degree,6.0,29160.0
+Poland,Master's Degree,3.0,27923.0
+Poland,Less than Bachelor's Degree,2.0,24300.0
+Poland,Master's Degree,6.0,48600.0
+Poland,Bachelor's Degree,4.0,10632.0
+Poland,Less than Bachelor's Degree,3.0,18228.0
+Poland,Master's Degree,10.0,121500.0
+Poland,Master's Degree,10.0,75937.0
+Poland,Less than Bachelor's Degree,4.0,48600.0
+Poland,Less than Bachelor's Degree,3.0,55584.0
+Poland,Less than Bachelor's Degree,4.0,39492.0
+Poland,Bachelor's Degree,3.0,27036.0
+Poland,Master's Degree,6.0,18228.0
+Poland,Bachelor's Degree,3.0,33408.0
+Poland,Less than Bachelor's Degree,7.0,189844.0
+Poland,Less than Bachelor's Degree,3.0,36444.0
+Poland,Bachelor's Degree,7.0,43632.0
+Poland,Less than Bachelor's Degree,7.0,27336.0
+Poland,Less than Bachelor's Degree,7.0,48600.0
+Poland,Master's Degree,5.0,63792.0
+Poland,Less than Bachelor's Degree,6.0,15792.0
+Poland,Master's Degree,3.0,36444.0
+Poland,Master's Degree,10.0,19740.0
+Poland,Less than Bachelor's Degree,10.0,24300.0
+Poland,Bachelor's Degree,6.0,37968.0
+Poland,Less than Bachelor's Degree,7.0,73224.0
+Poland,Master's Degree,4.0,57708.0
+Poland,Master's Degree,5.0,45564.0
+Poland,Master's Degree,7.0,45564.0
+Poland,Bachelor's Degree,10.0,57708.0
+Poland,Bachelor's Degree,9.0,54672.0
+Poland,Master's Degree,6.0,22776.0
+Poland,Post Graduate Degree,5.0,45564.0
+Poland,Less than Bachelor's Degree,2.0,12756.0
+Poland,Master's Degree,3.0,39492.0
+Poland,Bachelor's Degree,3.0,42528.0
+Poland,Master's Degree,8.0,48600.0
+Poland,Master's Degree,6.0,72900.0
+Poland,Less than Bachelor's Degree,2.0,27036.0
+Poland,Less than Bachelor's Degree,3.0,27336.0
+Poland,Master's Degree,9.0,34932.0
+Poland,Master's Degree,0.5,13668.0
+Poland,Bachelor's Degree,9.0,33744.0
+Poland,Less than Bachelor's Degree,6.0,21264.0
+Poland,Master's Degree,6.0,39492.0
+Poland,Master's Degree,3.0,19740.0
+Poland,Bachelor's Degree,7.0,17316.0
+Poland,Master's Degree,10.0,36000.0
+Poland,Bachelor's Degree,6.0,75936.0
+Poland,Master's Degree,1.0,18228.0
+Poland,Bachelor's Degree,6.0,34172.0
+Poland,Bachelor's Degree,4.0,51636.0
+Poland,Master's Degree,6.0,19740.0
+Poland,Master's Degree,5.0,50124.0
+Poland,Bachelor's Degree,7.0,33408.0
+Poland,Bachelor's Degree,2.0,12144.0
+Poland,Less than Bachelor's Degree,3.0,30372.0
+Poland,Master's Degree,3.0,25212.0
+Poland,Master's Degree,4.0,33408.0
+Poland,Master's Degree,9.0,39492.0
+Poland,Master's Degree,5.0,27336.0
+Poland,Master's Degree,3.0,37968.0
+Poland,Master's Degree,10.0,56196.0
+Poland,Master's Degree,6.0,61236.0
+Poland,Master's Degree,0.5,10332.0
+Poland,Master's Degree,8.0,45564.0
+Poland,Master's Degree,4.0,33408.0
+Poland,Less than Bachelor's Degree,0.5,17004.0
+Poland,Bachelor's Degree,5.0,48600.0
+Poland,Less than Bachelor's Degree,3.0,21264.0
+Poland,Master's Degree,6.0,50625.0
+Poland,Bachelor's Degree,7.0,30372.0
+Poland,Master's Degree,5.0,18828.0
+Poland,Less than Bachelor's Degree,4.0,42528.0
+Poland,Master's Degree,4.0,51636.0
+Poland,Bachelor's Degree,6.0,36444.0
+Poland,Master's Degree,10.0,66828.0
+Poland,Bachelor's Degree,10.0,19740.0
+Poland,Less than Bachelor's Degree,3.0,45564.0
+Poland,Bachelor's Degree,6.0,48600.0
+Poland,Master's Degree,6.0,27336.0
+Poland,Bachelor's Degree,2.0,42528.0
+Poland,Master's Degree,4.0,28860.0
+Poland,Less than Bachelor's Degree,7.0,63792.0
+Poland,Master's Degree,3.0,28092.0
+Poland,Master's Degree,9.0,39492.0
+Poland,Bachelor's Degree,6.0,69864.0
+Poland,Master's Degree,6.0,73406.0
+Poland,Less than Bachelor's Degree,8.0,72385.0
+Poland,Less than Bachelor's Degree,7.0,33412.0
+Poland,Master's Degree,8.0,48600.0
+Poland,Bachelor's Degree,10.0,73680.0
+Poland,Bachelor's Degree,5.0,41004.0
+Poland,Bachelor's Degree,2.0,17316.0
+Poland,Bachelor's Degree,3.0,25824.0
+Poland,Bachelor's Degree,2.0,9108.0
+Poland,Bachelor's Degree,5.0,39492.0
+Poland,Less than Bachelor's Degree,1.0,12144.0
+Poland,Master's Degree,3.0,30372.0
+Poland,Bachelor's Degree,7.0,44040.0
+Poland,Less than Bachelor's Degree,0.5,18228.0
+Poland,Master's Degree,3.0,64860.0
+Poland,Master's Degree,10.0,27337.0
+Poland,Master's Degree,4.0,42528.0
+Poland,Less than Bachelor's Degree,8.0,42528.0
+Poland,Master's Degree,4.0,26831.0
+Poland,Less than Bachelor's Degree,3.0,15192.0
+Poland,Less than Bachelor's Degree,5.0,51131.0
+Poland,Bachelor's Degree,7.0,110000.0
+Poland,Post Graduate Degree,0.5,24300.0
+Poland,Bachelor's Degree,2.0,27336.0
+Poland,Bachelor's Degree,8.0,48600.0
+Poland,Less than Bachelor's Degree,0.5,12144.0
+Poland,Bachelor's Degree,8.0,72900.0
+Poland,Bachelor's Degree,3.0,37968.0
+Poland,Master's Degree,9.0,53160.0
+Poland,Master's Degree,2.0,48600.0
+Poland,Bachelor's Degree,4.0,36444.0
+Poland,Less than Bachelor's Degree,1.0,13260.0
+Poland,Bachelor's Degree,3.0,21864.0
+Poland,Bachelor's Degree,2.0,21264.0
+Poland,Master's Degree,7.0,51636.0
+Poland,Less than Bachelor's Degree,3.0,40200.0
+Poland,Bachelor's Degree,2.0,15192.0
+Poland,Master's Degree,3.0,25212.0
+Poland,Post Graduate Degree,8.0,42528.0
+Poland,Master's Degree,7.0,37968.0
+Poland,Bachelor's Degree,4.0,36444.0
+Poland,Bachelor's Degree,4.0,39240.0
+Poland,Master's Degree,10.0,67428.0
+Poland,Less than Bachelor's Degree,2.0,13668.0
+Poland,Less than Bachelor's Degree,7.0,54672.0
+Poland,Master's Degree,8.0,61056.0
+Poland,Master's Degree,4.0,48600.0
+Poland,Bachelor's Degree,8.0,37356.0
+Poland,Master's Degree,2.0,21864.0
+Poland,Master's Degree,10.0,63792.0
+Poland,Master's Degree,5.0,37968.0
+Poland,Master's Degree,4.0,19740.0
+Poland,Master's Degree,4.0,41004.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Less than Bachelor's Degree,4.0,27336.0
+Poland,Less than Bachelor's Degree,2.0,22776.0
+Poland,Less than Bachelor's Degree,0.5,24300.0
+Poland,Bachelor's Degree,5.0,45564.0
+Poland,Master's Degree,1.0,6072.0
+Poland,Less than Bachelor's Degree,4.0,30372.0
+Poland,Master's Degree,6.0,72900.0
+Poland,Bachelor's Degree,2.0,32906.0
+Poland,Bachelor's Degree,3.0,30984.0
+Poland,Master's Degree,5.0,45600.0
+Poland,Less than Bachelor's Degree,2.0,31896.0
+Poland,Bachelor's Degree,2.0,12144.0
+Poland,Master's Degree,5.0,71376.0
+Poland,Bachelor's Degree,6.0,16704.0
+Poland,Bachelor's Degree,3.0,30684.0
+Poland,Master's Degree,8.0,94164.0
+Poland,Bachelor's Degree,1.0,15192.0
+Poland,Master's Degree,4.0,30372.0
+Poland,Master's Degree,3.0,30372.0
+Poland,Bachelor's Degree,5.0,21120.0
+Poland,Master's Degree,7.0,30984.0
+Poland,Bachelor's Degree,4.0,23088.0
+Poland,Master's Degree,2.0,18228.0
+Poland,Less than Bachelor's Degree,1.0,11544.0
+Poland,Less than Bachelor's Degree,3.0,9108.0
+Poland,Master's Degree,6.0,45564.0
+Poland,Master's Degree,3.0,22320.0
+Poland,Bachelor's Degree,1.0,24300.0
+Poland,Less than Bachelor's Degree,7.0,29916.0
+Poland,Master's Degree,10.0,36444.0
+Poland,Master's Degree,8.0,54672.0
+Poland,Bachelor's Degree,3.0,42108.0
+Poland,Bachelor's Degree,3.0,13668.0
+Poland,Bachelor's Degree,5.0,24300.0
+Poland,Less than Bachelor's Degree,2.0,19740.0
+Poland,Master's Degree,7.0,41766.0
+Poland,Less than Bachelor's Degree,4.0,36444.0
+Poland,Master's Degree,5.0,53156.0
+Poland,Less than Bachelor's Degree,2.0,15492.0
+Poland,Bachelor's Degree,8.0,60744.0
+Poland,Bachelor's Degree,2.0,33408.0
+Poland,Master's Degree,10.0,55284.0
+Poland,Bachelor's Degree,3.0,45564.0
+Poland,Less than Bachelor's Degree,5.0,26208.0
+Poland,Master's Degree,6.0,41004.0
+Poland,Bachelor's Degree,5.0,27948.0
+Poland,Master's Degree,8.0,38940.0
+Poland,Master's Degree,6.0,30372.0
+Poland,Master's Degree,4.0,47076.0
+Poland,Less than Bachelor's Degree,8.0,91883.0
+Poland,Master's Degree,7.0,53160.0
+Poland,Bachelor's Degree,9.0,39492.0
+Poland,Less than Bachelor's Degree,0.5,14580.0
+Poland,Bachelor's Degree,5.0,36444.0
+Poland,Bachelor's Degree,8.0,42528.0
+Poland,Master's Degree,2.0,28860.0
+Poland,Master's Degree,10.0,63281.0
+Poland,Bachelor's Degree,1.0,27336.0
+Poland,Bachelor's Degree,3.0,36444.0
+Poland,Master's Degree,6.0,30372.0
+Poland,Bachelor's Degree,6.0,54672.0
+Poland,Less than Bachelor's Degree,0.5,9108.0
+Poland,Master's Degree,6.0,77479.0
+Poland,Master's Degree,5.0,33408.0
+Poland,Bachelor's Degree,3.0,31896.0
+Poland,Bachelor's Degree,5.0,39492.0
+Poland,Master's Degree,2.0,18828.0
+Poland,Less than Bachelor's Degree,2.0,24300.0
+Poland,Less than Bachelor's Degree,1.0,13668.0
+Poland,Bachelor's Degree,4.0,42528.0
+Poland,Master's Degree,3.0,27336.0
+Poland,Master's Degree,2.0,30684.0
+Poland,Less than Bachelor's Degree,3.0,48600.0
+Poland,Master's Degree,6.0,82008.0
+Poland,Master's Degree,3.0,39492.0
+Poland,Master's Degree,6.0,36444.0
+Poland,Bachelor's Degree,8.0,50625.0
+Poland,Bachelor's Degree,2.0,31284.0
+Poland,Bachelor's Degree,1.0,45564.0
+Poland,Less than Bachelor's Degree,2.0,18528.0
+Poland,Bachelor's Degree,4.0,75936.0
+Poland,Less than Bachelor's Degree,6.0,39492.0
+Poland,Master's Degree,1.0,13668.0
+Poland,Bachelor's Degree,0.5,9108.0
+Poland,Master's Degree,4.0,52548.0
+Poland,Less than Bachelor's Degree,5.0,36444.0
+Poland,Master's Degree,5.0,72900.0
+Poland,Bachelor's Degree,10.0,48600.0
+Poland,Bachelor's Degree,6.0,46069.0
+Poland,Bachelor's Degree,8.0,20052.0
+Poland,Less than Bachelor's Degree,1.0,9720.0
+Poland,Less than Bachelor's Degree,3.0,45864.0
+Poland,Master's Degree,10.0,56196.0
+Poland,Bachelor's Degree,3.0,36444.0
+Poland,Bachelor's Degree,10.0,16704.0
+Poland,Bachelor's Degree,2.0,18228.0
+Poland,Bachelor's Degree,0.5,10020.0
+Poland,Less than Bachelor's Degree,2.0,20508.0
+Poland,Less than Bachelor's Degree,3.0,31896.0
+Poland,Bachelor's Degree,0.5,11844.0
+Poland,Master's Degree,1.0,30372.0
+Poland,Master's Degree,4.0,30372.0
+Poland,Master's Degree,4.0,45241.0
+Poland,Less than Bachelor's Degree,6.0,64392.0
+Poland,Less than Bachelor's Degree,6.0,75936.0
+Poland,Master's Degree,2.0,10632.0
+Poland,Bachelor's Degree,10.0,78469.0
+Poland,Bachelor's Degree,0.5,31644.0
+Poland,Bachelor's Degree,0.5,15192.0
+Poland,Bachelor's Degree,4.0,21264.0
+Poland,Bachelor's Degree,4.0,30372.0
+Poland,Less than Bachelor's Degree,5.0,24300.0
+Poland,Master's Degree,5.0,39492.0
+Poland,Bachelor's Degree,7.0,61236.0
+Poland,Less than Bachelor's Degree,1.0,12144.0
+Poland,Master's Degree,3.0,20472.0
+Poland,Master's Degree,2.0,27336.0
+Poland,Bachelor's Degree,2.0,27336.0
+Poland,Master's Degree,4.0,21264.0
+Poland,Master's Degree,3.0,24300.0
+Poland,Less than Bachelor's Degree,5.0,17004.0
+Poland,Master's Degree,3.0,37968.0
+Poland,Master's Degree,5.0,30372.0
+Poland,Master's Degree,5.0,33408.0
+Poland,Master's Degree,5.0,21960.0
+Poland,Master's Degree,7.0,36444.0
+Poland,Master's Degree,3.0,45564.0
+Poland,Master's Degree,7.0,33408.0
+Poland,Less than Bachelor's Degree,2.0,7284.0
+Poland,Bachelor's Degree,3.0,45564.0
+Poland,Bachelor's Degree,3.0,22776.0
+Poland,Bachelor's Degree,1.0,18228.0
+Poland,Bachelor's Degree,8.0,44040.0

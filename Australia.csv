@@ -1,0 +1,441 @@
+Country,EdLevel,YearsCodePro,Salary
+Australia,Master's Degree,2.0,96874.0
+Australia,Bachelor's Degree,1.0,40086.0
+Australia,Less than Bachelor's Degree,0.5,60132.0
+Australia,Post Graduate Degree,7.0,76831.0
+Australia,Bachelor's Degree,5.0,86853.0
+Australia,Master's Degree,3.0,40086.0
+Australia,Bachelor's Degree,5.0,40080.0
+Australia,Bachelor's Degree,2.0,56788.0
+Australia,Less than Bachelor's Degree,10.0,120257.0
+Australia,Bachelor's Degree,6.0,63469.0
+Australia,Bachelor's Degree,9.0,96874.0
+Australia,Bachelor's Degree,7.0,100214.0
+Australia,Bachelor's Degree,5.0,86853.0
+Australia,Bachelor's Degree,4.0,52112.0
+Australia,Bachelor's Degree,8.0,120257.0
+Australia,Bachelor's Degree,6.0,106895.0
+Australia,Master's Degree,6.0,70818.0
+Australia,Post Graduate Degree,5.0,83512.0
+Australia,Bachelor's Degree,3.0,60129.0
+Australia,Bachelor's Degree,8.0,172369.0
+Australia,Bachelor's Degree,9.0,40300.0
+Australia,Less than Bachelor's Degree,5.0,46767.0
+Australia,Bachelor's Degree,4.0,27264.0
+Australia,Bachelor's Degree,2.0,43426.0
+Australia,Bachelor's Degree,10.0,47520.0
+Australia,Less than Bachelor's Degree,10.0,63469.0
+Australia,Bachelor's Degree,5.0,73491.0
+Australia,Less than Bachelor's Degree,6.0,56788.0
+Australia,Bachelor's Degree,7.0,60129.0
+Australia,Bachelor's Degree,3.0,51443.0
+Australia,Bachelor's Degree,3.0,71486.0
+Australia,Master's Degree,6.0,117585.0
+Australia,Less than Bachelor's Degree,5.0,50775.0
+Australia,Bachelor's Degree,5.0,60797.0
+Australia,Master's Degree,9.0,60129.0
+Australia,Bachelor's Degree,6.0,87521.0
+Australia,Bachelor's Degree,5.0,60129.0
+Australia,Bachelor's Degree,2.0,73491.0
+Australia,Master's Degree,5.0,62133.0
+Australia,Bachelor's Degree,1.0,126938.0
+Australia,Post Graduate Degree,5.0,43426.0
+Australia,Bachelor's Degree,10.0,93533.0
+Australia,Bachelor's Degree,8.0,61465.0
+Australia,Bachelor's Degree,2.0,43426.0
+Australia,Bachelor's Degree,7.0,120257.0
+Australia,Bachelor's Degree,2.0,133619.0
+Australia,Bachelor's Degree,2.0,37948.0
+Australia,Less than Bachelor's Degree,8.0,90193.0
+Australia,Bachelor's Degree,3.0,60354.0
+Australia,Bachelor's Degree,1.0,39120.0
+Australia,Bachelor's Degree,5.0,57456.0
+Australia,Bachelor's Degree,8.0,66810.0
+Australia,Bachelor's Degree,4.0,66810.0
+Australia,Master's Degree,5.0,73491.0
+Australia,Master's Degree,6.0,62133.0
+Australia,Post Graduate Degree,6.0,57323.0
+Australia,Less than Bachelor's Degree,8.0,77772.0
+Australia,Bachelor's Degree,5.0,84180.0
+Australia,Bachelor's Degree,2.0,46767.0
+Australia,Bachelor's Degree,7.0,66810.0
+Australia,Bachelor's Degree,2.0,38750.0
+Australia,Less than Bachelor's Degree,2.0,50107.0
+Australia,Bachelor's Degree,4.0,66810.0
+Australia,Master's Degree,3.0,80172.0
+Australia,Bachelor's Degree,6.0,120257.0
+Australia,Bachelor's Degree,5.0,52112.0
+Australia,Post Graduate Degree,2.0,60129.0
+Australia,Bachelor's Degree,5.0,51440.0
+Australia,Less than Bachelor's Degree,5.0,60129.0
+Australia,Bachelor's Degree,3.0,49974.0
+Australia,Master's Degree,3.0,46767.0
+Australia,Less than Bachelor's Degree,8.0,70150.0
+Australia,Bachelor's Degree,4.0,40086.0
+Australia,Bachelor's Degree,3.0,106895.0
+Australia,Bachelor's Degree,3.0,40086.0
+Australia,Master's Degree,3.0,53448.0
+Australia,Less than Bachelor's Degree,10.0,80172.0
+Australia,Bachelor's Degree,5.0,72154.0
+Australia,Bachelor's Degree,5.0,76831.0
+Australia,Master's Degree,3.0,56124.0
+Australia,Less than Bachelor's Degree,5.0,63469.0
+Australia,Bachelor's Degree,5.0,123598.0
+Australia,Bachelor's Degree,2.0,71820.0
+Australia,Bachelor's Degree,4.0,57623.0
+Australia,Bachelor's Degree,10.0,80172.0
+Australia,Less than Bachelor's Degree,0.5,30064.0
+Australia,Bachelor's Degree,10.0,66810.0
+Australia,Bachelor's Degree,5.0,100214.0
+Australia,Bachelor's Degree,6.0,80172.0
+Australia,Less than Bachelor's Degree,8.0,66810.0
+Australia,Bachelor's Degree,3.0,60129.0
+Australia,Bachelor's Degree,9.0,80172.0
+Australia,Bachelor's Degree,5.0,73491.0
+Australia,Master's Degree,4.0,76831.0
+Australia,Less than Bachelor's Degree,6.0,34741.0
+Australia,Bachelor's Degree,3.0,55160.0
+Australia,Bachelor's Degree,3.0,35650.0
+Australia,Bachelor's Degree,4.0,40100.0
+Australia,Master's Degree,5.0,70818.0
+Australia,Bachelor's Degree,5.0,86853.0
+Australia,Bachelor's Degree,2.0,100200.0
+Australia,Bachelor's Degree,8.0,113910.0
+Australia,Post Graduate Degree,8.0,83512.0
+Australia,Bachelor's Degree,6.0,98210.0
+Australia,Bachelor's Degree,7.0,167000.0
+Australia,Master's Degree,10.0,106895.0
+Australia,Bachelor's Degree,3.0,80172.0
+Australia,Bachelor's Degree,4.0,53448.0
+Australia,Master's Degree,3.0,53448.0
+Australia,Bachelor's Degree,2.0,46767.0
+Australia,Post Graduate Degree,1.0,60129.0
+Australia,Master's Degree,0.5,46767.0
+Australia,Bachelor's Degree,1.0,43426.0
+Australia,Master's Degree,2.0,60736.0
+Australia,Bachelor's Degree,5.0,66800.0
+Australia,Less than Bachelor's Degree,10.0,133619.0
+Australia,Bachelor's Degree,4.0,53448.0
+Australia,Master's Degree,3.0,46767.0
+Australia,Less than Bachelor's Degree,7.0,63469.0
+Australia,Less than Bachelor's Degree,10.0,32737.0
+Australia,Bachelor's Degree,9.0,60129.0
+Australia,Bachelor's Degree,5.0,79503.0
+Australia,Less than Bachelor's Degree,4.0,54784.0
+Australia,Bachelor's Degree,9.0,66810.0
+Australia,Bachelor's Degree,5.0,102800.0
+Australia,Less than Bachelor's Degree,8.0,100214.0
+Australia,Bachelor's Degree,9.0,147000.0
+Australia,Bachelor's Degree,5.0,36750.0
+Australia,Less than Bachelor's Degree,6.0,75495.0
+Australia,Bachelor's Degree,3.0,59861.0
+Australia,Bachelor's Degree,2.0,54784.0
+Australia,Bachelor's Degree,3.0,57456.0
+Australia,Less than Bachelor's Degree,4.0,61465.0
+Australia,Bachelor's Degree,5.0,63135.0
+Australia,Bachelor's Degree,4.0,60129.0
+Australia,Bachelor's Degree,2.0,55452.0
+Australia,Bachelor's Degree,0.5,35100.0
+Australia,Bachelor's Degree,3.0,43426.0
+Australia,Bachelor's Degree,2.0,40086.0
+Australia,Bachelor's Degree,5.0,66810.0
+Australia,Master's Degree,3.0,60129.0
+Australia,Bachelor's Degree,2.0,40086.0
+Australia,Bachelor's Degree,9.0,53448.0
+Australia,Bachelor's Degree,5.0,66810.0
+Australia,Bachelor's Degree,8.0,63469.0
+Australia,Master's Degree,5.0,100214.0
+Australia,Bachelor's Degree,9.0,123598.0
+Australia,Bachelor's Degree,8.0,93533.0
+Australia,Less than Bachelor's Degree,1.0,43426.0
+Australia,Bachelor's Degree,4.0,48771.0
+Australia,Bachelor's Degree,6.0,67478.0
+Australia,Bachelor's Degree,6.0,93533.0
+Australia,Bachelor's Degree,4.0,44094.0
+Australia,Less than Bachelor's Degree,0.5,36745.0
+Australia,Master's Degree,2.0,43426.0
+Australia,Bachelor's Degree,9.0,74827.0
+Australia,Bachelor's Degree,7.0,86853.0
+Australia,Less than Bachelor's Degree,1.0,53448.0
+Australia,Less than Bachelor's Degree,9.0,46750.0
+Australia,Less than Bachelor's Degree,2.0,44762.0
+Australia,Master's Degree,2.0,80172.0
+Australia,Bachelor's Degree,6.0,38750.0
+Australia,Bachelor's Degree,7.0,43426.0
+Australia,Less than Bachelor's Degree,8.0,48771.0
+Australia,Less than Bachelor's Degree,0.5,36745.0
+Australia,Less than Bachelor's Degree,2.0,66810.0
+Australia,Bachelor's Degree,4.0,40086.0
+Australia,Bachelor's Degree,6.0,133619.0
+Australia,Post Graduate Degree,7.0,106895.0
+Australia,Bachelor's Degree,8.0,60129.0
+Australia,Bachelor's Degree,3.0,41756.0
+Australia,Less than Bachelor's Degree,1.0,41756.0
+Australia,Bachelor's Degree,2.0,36745.0
+Australia,Bachelor's Degree,5.0,74827.0
+Australia,Bachelor's Degree,6.0,80172.0
+Australia,Master's Degree,10.0,93533.0
+Australia,Bachelor's Degree,9.0,91529.0
+Australia,Bachelor's Degree,6.0,48103.0
+Australia,Less than Bachelor's Degree,8.0,126938.0
+Australia,Master's Degree,7.0,73491.0
+Australia,Bachelor's Degree,7.0,86853.0
+Australia,Bachelor's Degree,8.0,76831.0
+Australia,Bachelor's Degree,5.0,80172.0
+Australia,Post Graduate Degree,8.0,66810.0
+Australia,Bachelor's Degree,4.0,60150.0
+Australia,Less than Bachelor's Degree,3.0,27264.0
+Australia,Bachelor's Degree,9.0,73491.0
+Australia,Bachelor's Degree,6.0,33405.0
+Australia,Bachelor's Degree,10.0,39288.0
+Australia,Bachelor's Degree,1.0,66810.0
+Australia,Bachelor's Degree,6.0,86853.0
+Australia,Master's Degree,3.0,66810.0
+Australia,Less than Bachelor's Degree,9.0,68814.0
+Australia,Bachelor's Degree,0.5,36745.0
+Australia,Bachelor's Degree,5.0,63469.0
+Australia,Less than Bachelor's Degree,1.0,46099.0
+Australia,Less than Bachelor's Degree,4.0,90193.0
+Australia,Master's Degree,3.0,31272.0
+Australia,Bachelor's Degree,8.0,60129.0
+Australia,Bachelor's Degree,8.0,97542.0
+Australia,Bachelor's Degree,3.0,36024.0
+Australia,Less than Bachelor's Degree,10.0,86853.0
+Australia,Bachelor's Degree,6.0,56788.0
+Australia,Master's Degree,8.0,120257.0
+Australia,Bachelor's Degree,3.0,43426.0
+Australia,Less than Bachelor's Degree,9.0,93533.0
+Australia,Master's Degree,7.0,96874.0
+Australia,Bachelor's Degree,8.0,66810.0
+Australia,Post Graduate Degree,10.0,80172.0
+Australia,Less than Bachelor's Degree,5.0,66810.0
+Australia,Bachelor's Degree,3.0,56788.0
+Australia,Bachelor's Degree,6.0,73491.0
+Australia,Less than Bachelor's Degree,5.0,135757.0
+Australia,Bachelor's Degree,5.0,73491.0
+Australia,Master's Degree,7.0,140300.0
+Australia,Bachelor's Degree,3.0,50107.0
+Australia,Bachelor's Degree,2.0,50107.0
+Australia,Bachelor's Degree,8.0,167024.0
+Australia,Bachelor's Degree,4.0,49439.0
+Australia,Bachelor's Degree,10.0,53448.0
+Australia,Bachelor's Degree,2.0,84180.0
+Australia,Less than Bachelor's Degree,5.0,65473.0
+Australia,Bachelor's Degree,4.0,60129.0
+Australia,Bachelor's Degree,2.0,41422.0
+Australia,Bachelor's Degree,8.0,26700.0
+Australia,Bachelor's Degree,3.0,56788.0
+Australia,Bachelor's Degree,7.0,91529.0
+Australia,Bachelor's Degree,0.5,43426.0
+Australia,Bachelor's Degree,10.0,60129.0
+Australia,Bachelor's Degree,5.0,50107.0
+Australia,Bachelor's Degree,4.0,50107.0
+Australia,Bachelor's Degree,6.0,58458.0
+Australia,Bachelor's Degree,4.0,61465.0
+Australia,Master's Degree,7.0,173705.0
+Australia,Bachelor's Degree,2.0,73491.0
+Australia,Bachelor's Degree,6.0,49439.0
+Australia,Bachelor's Degree,0.5,40080.0
+Australia,Bachelor's Degree,2.0,53448.0
+Australia,Post Graduate Degree,1.0,43426.0
+Australia,Post Graduate Degree,6.0,60129.0
+Australia,Less than Bachelor's Degree,7.0,50100.0
+Australia,Bachelor's Degree,2.0,46767.0
+Australia,Bachelor's Degree,6.0,66800.0
+Australia,Master's Degree,6.0,64140.0
+Australia,Master's Degree,8.0,60129.0
+Australia,Bachelor's Degree,5.0,61465.0
+Australia,Bachelor's Degree,6.0,69499.0
+Australia,Bachelor's Degree,3.0,51777.0
+Australia,Bachelor's Degree,10.0,167024.0
+Australia,Bachelor's Degree,5.0,68146.0
+Australia,Bachelor's Degree,8.0,48108.0
+Australia,Bachelor's Degree,5.0,62133.0
+Australia,Bachelor's Degree,2.0,86850.0
+Australia,Less than Bachelor's Degree,4.0,62534.0
+Australia,Master's Degree,0.5,80172.0
+Australia,Bachelor's Degree,5.0,53450.0
+Australia,Bachelor's Degree,3.0,53448.0
+Australia,Bachelor's Degree,1.0,108098.0
+Australia,Bachelor's Degree,5.0,86853.0
+Australia,Bachelor's Degree,7.0,133619.0
+Australia,Bachelor's Degree,9.0,80172.0
+Australia,Less than Bachelor's Degree,5.0,33405.0
+Australia,Bachelor's Degree,4.0,54120.0
+Australia,Bachelor's Degree,1.0,38616.0
+Australia,Bachelor's Degree,4.0,105250.0
+Australia,Bachelor's Degree,8.0,80172.0
+Australia,Less than Bachelor's Degree,8.0,46767.0
+Australia,Bachelor's Degree,4.0,40086.0
+Australia,Bachelor's Degree,10.0,48103.0
+Australia,Bachelor's Degree,2.0,53448.0
+Australia,Bachelor's Degree,10.0,130279.0
+Australia,Master's Degree,6.0,93533.0
+Australia,Bachelor's Degree,3.0,63469.0
+Australia,Master's Degree,10.0,100214.0
+Australia,Bachelor's Degree,10.0,83512.0
+Australia,Master's Degree,7.0,83512.0
+Australia,Less than Bachelor's Degree,10.0,63469.0
+Australia,Post Graduate Degree,8.0,81508.0
+Australia,Bachelor's Degree,5.0,76831.0
+Australia,Post Graduate Degree,10.0,70818.0
+Australia,Bachelor's Degree,5.0,60129.0
+Australia,Master's Degree,4.0,80172.0
+Australia,Post Graduate Degree,6.0,110236.0
+Australia,Bachelor's Degree,7.0,69482.0
+Australia,Bachelor's Degree,8.0,47412.0
+Australia,Bachelor's Degree,8.0,80172.0
+Australia,Bachelor's Degree,7.0,53448.0
+Australia,Master's Degree,8.0,96874.0
+Australia,Master's Degree,5.0,80172.0
+Australia,Post Graduate Degree,7.0,80172.0
+Australia,Less than Bachelor's Degree,0.5,33405.0
+Australia,Bachelor's Degree,8.0,66810.0
+Australia,Bachelor's Degree,8.0,76831.0
+Australia,Less than Bachelor's Degree,10.0,100214.0
+Australia,Bachelor's Degree,10.0,133619.0
+Australia,Master's Degree,4.0,60129.0
+Australia,Bachelor's Degree,9.0,83512.0
+Australia,Bachelor's Degree,4.0,70150.0
+Australia,Less than Bachelor's Degree,3.0,66810.0
+Australia,Bachelor's Degree,6.0,70818.0
+Australia,Bachelor's Degree,6.0,52780.0
+Australia,Less than Bachelor's Degree,4.0,42758.0
+Australia,Bachelor's Degree,5.0,94558.0
+Australia,Less than Bachelor's Degree,3.0,60129.0
+Australia,Bachelor's Degree,10.0,70818.0
+Australia,Post Graduate Degree,6.0,134894.0
+Australia,Post Graduate Degree,10.0,80172.0
+Australia,Bachelor's Degree,6.0,70150.0
+Australia,Bachelor's Degree,6.0,104891.0
+Australia,Less than Bachelor's Degree,4.0,70150.0
+Australia,Less than Bachelor's Degree,7.0,86853.0
+Australia,Bachelor's Degree,6.0,66810.0
+Australia,Less than Bachelor's Degree,10.0,76831.0
+Australia,Bachelor's Degree,6.0,60129.0
+Australia,Master's Degree,6.0,66142.0
+Australia,Bachelor's Degree,4.0,66810.0
+Australia,Bachelor's Degree,8.0,63336.0
+Australia,Bachelor's Degree,3.0,70150.0
+Australia,Less than Bachelor's Degree,1.0,30064.0
+Australia,Bachelor's Degree,8.0,86853.0
+Australia,Bachelor's Degree,3.0,63469.0
+Australia,Bachelor's Degree,2.0,33405.0
+Australia,Bachelor's Degree,3.0,40754.0
+Australia,Bachelor's Degree,6.0,33672.0
+Australia,Bachelor's Degree,2.0,45097.0
+Australia,Bachelor's Degree,7.0,80172.0
+Australia,Bachelor's Degree,7.0,90193.0
+Australia,Bachelor's Degree,2.0,55118.0
+Australia,Less than Bachelor's Degree,10.0,90193.0
+Australia,Bachelor's Degree,10.0,79503.0
+Australia,Bachelor's Degree,5.0,53448.0
+Australia,Bachelor's Degree,3.0,61465.0
+Australia,Bachelor's Degree,0.5,50107.0
+Australia,Bachelor's Degree,4.0,56788.0
+Australia,Bachelor's Degree,7.0,50107.0
+Australia,Bachelor's Degree,10.0,51590.0
+Australia,Bachelor's Degree,7.0,130947.0
+Australia,Bachelor's Degree,6.0,105893.0
+Australia,Less than Bachelor's Degree,10.0,87521.0
+Australia,Master's Degree,8.0,72156.0
+Australia,Master's Degree,1.0,167024.0
+Australia,Bachelor's Degree,2.0,46767.0
+Australia,Bachelor's Degree,0.5,44762.0
+Australia,Master's Degree,3.0,106895.0
+Australia,Bachelor's Degree,4.0,93533.0
+Australia,Master's Degree,6.0,103555.0
+Australia,Master's Degree,5.0,86853.0
+Australia,Master's Degree,1.0,46767.0
+Australia,Bachelor's Degree,6.0,73491.0
+Australia,Bachelor's Degree,5.0,80172.0
+Australia,Bachelor's Degree,5.0,80172.0
+Australia,Bachelor's Degree,10.0,53448.0
+Australia,Bachelor's Degree,6.0,91529.0
+Australia,Master's Degree,3.0,54116.0
+Australia,Bachelor's Degree,0.5,53448.0
+Australia,Bachelor's Degree,10.0,43426.0
+Australia,Less than Bachelor's Degree,6.0,32250.0
+Australia,Master's Degree,5.0,46767.0
+Australia,Master's Degree,3.0,46767.0
+Australia,Bachelor's Degree,4.0,70150.0
+Australia,Bachelor's Degree,3.0,49439.0
+Australia,Bachelor's Degree,4.0,70818.0
+Australia,Bachelor's Degree,0.5,70150.0
+Australia,Bachelor's Degree,2.0,86853.0
+Australia,Bachelor's Degree,3.0,72388.0
+Australia,Bachelor's Degree,3.0,66810.0
+Australia,Less than Bachelor's Degree,4.0,86853.0
+Australia,Bachelor's Degree,10.0,90193.0
+Australia,Bachelor's Degree,5.0,66810.0
+Australia,Less than Bachelor's Degree,6.0,43426.0
+Australia,Bachelor's Degree,7.0,66810.0
+Australia,Post Graduate Degree,10.0,97542.0
+Australia,Master's Degree,0.5,40080.0
+Australia,Master's Degree,0.5,40080.0
+Australia,Bachelor's Degree,10.0,20043.0
+Australia,Bachelor's Degree,8.0,93533.0
+Australia,Bachelor's Degree,6.0,66142.0
+Australia,Bachelor's Degree,7.0,83512.0
+Australia,Master's Degree,3.0,76831.0
+Australia,Post Graduate Degree,10.0,84180.0
+Australia,Bachelor's Degree,7.0,80172.0
+Australia,Less than Bachelor's Degree,4.0,50107.0
+Australia,Bachelor's Degree,3.0,60129.0
+Australia,Bachelor's Degree,5.0,48103.0
+Australia,Master's Degree,5.0,54784.0
+Australia,Bachelor's Degree,7.0,66810.0
+Australia,Bachelor's Degree,8.0,48108.0
+Australia,Less than Bachelor's Degree,10.0,160344.0
+Australia,Bachelor's Degree,8.0,100214.0
+Australia,Master's Degree,5.0,78835.0
+Australia,Bachelor's Degree,6.0,86853.0
+Australia,Bachelor's Degree,5.0,103555.0
+Australia,Bachelor's Degree,4.0,66810.0
+Australia,Bachelor's Degree,8.0,83512.0
+Australia,Less than Bachelor's Degree,4.0,76831.0
+Australia,Bachelor's Degree,8.0,100214.0
+Australia,Bachelor's Degree,6.0,70150.0
+Australia,Bachelor's Degree,0.5,40086.0
+Australia,Less than Bachelor's Degree,6.0,64137.0
+Australia,Less than Bachelor's Degree,10.0,98745.0
+Australia,Less than Bachelor's Degree,7.0,80172.0
+Australia,Master's Degree,8.0,100214.0
+Australia,Post Graduate Degree,9.0,103555.0
+Australia,Less than Bachelor's Degree,1.0,87521.0
+Australia,Less than Bachelor's Degree,3.0,130947.0
+Australia,Bachelor's Degree,7.0,57790.0
+Australia,Bachelor's Degree,8.0,86853.0
+Australia,Post Graduate Degree,5.0,100214.0
+Australia,Bachelor's Degree,1.0,60129.0
+Australia,Bachelor's Degree,6.0,66810.0
+Australia,Less than Bachelor's Degree,6.0,73491.0
+Australia,Bachelor's Degree,4.0,93533.0
+Australia,Bachelor's Degree,4.0,110904.0
+Australia,Bachelor's Degree,3.0,56788.0
+Australia,Bachelor's Degree,3.0,86853.0
+Australia,Bachelor's Degree,2.0,92398.0
+Australia,Bachelor's Degree,0.5,66810.0
+Australia,Less than Bachelor's Degree,0.5,53448.0
+Australia,Less than Bachelor's Degree,5.0,50100.0
+Australia,Master's Degree,3.0,96874.0
+Australia,Less than Bachelor's Degree,0.5,33400.0
+Australia,Bachelor's Degree,3.0,90193.0
+Australia,Less than Bachelor's Degree,5.0,86853.0
+Australia,Less than Bachelor's Degree,2.0,50100.0
+Australia,Bachelor's Degree,6.0,76831.0
+Australia,Master's Degree,3.0,47769.0
+Australia,Bachelor's Degree,0.5,53448.0
+Australia,Master's Degree,8.0,50107.0
+Australia,Bachelor's Degree,8.0,163684.0
+Australia,Bachelor's Degree,10.0,167024.0
+Australia,Master's Degree,3.0,43426.0
+Australia,Post Graduate Degree,4.0,70150.0
+Australia,Bachelor's Degree,6.0,80172.0
+Australia,Bachelor's Degree,0.5,80172.0
+Australia,Bachelor's Degree,0.5,52780.0
+Australia,Bachelor's Degree,10.0,120257.0
+Australia,Bachelor's Degree,10.0,113576.0
+Australia,Bachelor's Degree,6.0,48103.0
+Australia,Bachelor's Degree,7.0,46767.0
+Australia,Master's Degree,4.0,56120.0

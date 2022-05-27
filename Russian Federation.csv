@@ -1,0 +1,538 @@
+Country,EdLevel,YearsCodePro,Salary
+Russian Federation,Post Graduate Degree,3.0,22644.0
+Russian Federation,Post Graduate Degree,5.0,75492.0
+Russian Federation,Bachelor's Degree,6.0,56616.0
+Russian Federation,Master's Degree,2.0,30192.0
+Russian Federation,Post Graduate Degree,9.0,75492.0
+Russian Federation,Less than Bachelor's Degree,1.0,28308.0
+Russian Federation,Bachelor's Degree,2.0,7548.0
+Russian Federation,Master's Degree,8.0,45300.0
+Russian Federation,Bachelor's Degree,5.0,41000.0
+Russian Federation,Bachelor's Degree,5.0,16980.0
+Russian Federation,Less than Bachelor's Degree,8.0,24540.0
+Russian Federation,Master's Degree,6.0,28308.0
+Russian Federation,Bachelor's Degree,5.0,84924.0
+Russian Federation,Bachelor's Degree,2.0,21516.0
+Russian Federation,Less than Bachelor's Degree,6.0,24540.0
+Russian Federation,Bachelor's Degree,6.0,16980.0
+Russian Federation,Less than Bachelor's Degree,10.0,35550.0
+Russian Federation,Master's Degree,9.0,35856.0
+Russian Federation,Post Graduate Degree,6.0,47184.0
+Russian Federation,Bachelor's Degree,2.0,20760.0
+Russian Federation,Less than Bachelor's Degree,4.0,37752.0
+Russian Federation,Post Graduate Degree,10.0,37752.0
+Russian Federation,Master's Degree,10.0,33972.0
+Russian Federation,Master's Degree,9.0,41520.0
+Russian Federation,Post Graduate Degree,8.0,18000.0
+Russian Federation,Less than Bachelor's Degree,7.0,18876.0
+Russian Federation,Less than Bachelor's Degree,4.0,20760.0
+Russian Federation,Master's Degree,2.0,33024.0
+Russian Federation,Post Graduate Degree,7.0,15096.0
+Russian Federation,Less than Bachelor's Degree,5.0,18876.0
+Russian Federation,Bachelor's Degree,3.0,15096.0
+Russian Federation,Post Graduate Degree,5.0,39636.0
+Russian Federation,Less than Bachelor's Degree,5.0,45300.0
+Russian Federation,Bachelor's Degree,5.0,33972.0
+Russian Federation,Bachelor's Degree,4.0,32088.0
+Russian Federation,Less than Bachelor's Degree,4.0,18876.0
+Russian Federation,Bachelor's Degree,3.0,37752.0
+Russian Federation,Bachelor's Degree,5.0,33972.0
+Russian Federation,Less than Bachelor's Degree,0.5,7548.0
+Russian Federation,Bachelor's Degree,3.0,54040.0
+Russian Federation,Less than Bachelor's Degree,2.0,37752.0
+Russian Federation,Bachelor's Degree,7.0,42000.0
+Russian Federation,Master's Degree,9.0,30384.0
+Russian Federation,Master's Degree,4.0,37752.0
+Russian Federation,Master's Degree,8.0,43404.0
+Russian Federation,Less than Bachelor's Degree,4.0,30192.0
+Russian Federation,Bachelor's Degree,3.0,37752.0
+Russian Federation,Post Graduate Degree,4.0,26424.0
+Russian Federation,Bachelor's Degree,7.0,62280.0
+Russian Federation,Bachelor's Degree,9.0,49068.0
+Russian Federation,Master's Degree,7.0,47184.0
+Russian Federation,Bachelor's Degree,5.0,28308.0
+Russian Federation,Bachelor's Degree,4.0,30768.0
+Russian Federation,Master's Degree,5.0,42468.0
+Russian Federation,Bachelor's Degree,3.0,13212.0
+Russian Federation,Bachelor's Degree,6.0,18876.0
+Russian Federation,Bachelor's Degree,10.0,33972.0
+Russian Federation,Master's Degree,5.0,18876.0
+Russian Federation,Bachelor's Degree,6.0,92484.0
+Russian Federation,Bachelor's Degree,2.0,7548.0
+Russian Federation,Less than Bachelor's Degree,3.0,16980.0
+Russian Federation,Less than Bachelor's Degree,2.0,7548.0
+Russian Federation,Less than Bachelor's Degree,0.5,10368.0
+Russian Federation,Less than Bachelor's Degree,5.0,18876.0
+Russian Federation,Bachelor's Degree,6.0,30576.0
+Russian Federation,Bachelor's Degree,2.0,11328.0
+Russian Federation,Master's Degree,8.0,25476.0
+Russian Federation,Master's Degree,4.0,22644.0
+Russian Federation,Post Graduate Degree,2.0,28308.0
+Russian Federation,Master's Degree,7.0,39636.0
+Russian Federation,Bachelor's Degree,6.0,32088.0
+Russian Federation,Master's Degree,7.0,22644.0
+Russian Federation,Bachelor's Degree,4.0,13212.0
+Russian Federation,Master's Degree,8.0,47184.0
+Russian Federation,Bachelor's Degree,4.0,41520.0
+Russian Federation,Less than Bachelor's Degree,5.0,26040.0
+Russian Federation,Master's Degree,7.0,5664.0
+Russian Federation,Less than Bachelor's Degree,7.0,69828.0
+Russian Federation,Less than Bachelor's Degree,1.0,9432.0
+Russian Federation,Master's Degree,4.0,17300.0
+Russian Federation,Bachelor's Degree,5.0,70774.0
+Russian Federation,Master's Degree,5.0,13212.0
+Russian Federation,Bachelor's Degree,10.0,19074.0
+Russian Federation,Bachelor's Degree,10.0,37752.0
+Russian Federation,Less than Bachelor's Degree,3.0,9432.0
+Russian Federation,Master's Degree,8.0,14160.0
+Russian Federation,Bachelor's Degree,2.0,11328.0
+Russian Federation,Less than Bachelor's Degree,4.0,28308.0
+Russian Federation,Master's Degree,7.0,117957.0
+Russian Federation,Bachelor's Degree,4.0,22644.0
+Russian Federation,Bachelor's Degree,8.0,39636.0
+Russian Federation,Post Graduate Degree,9.0,78000.0
+Russian Federation,Bachelor's Degree,10.0,18876.0
+Russian Federation,Bachelor's Degree,2.0,28308.0
+Russian Federation,Less than Bachelor's Degree,5.0,68892.0
+Russian Federation,Less than Bachelor's Degree,9.0,39636.0
+Russian Federation,Bachelor's Degree,4.0,16980.0
+Russian Federation,Bachelor's Degree,6.0,28308.0
+Russian Federation,Less than Bachelor's Degree,8.0,66060.0
+Russian Federation,Bachelor's Degree,2.0,7548.0
+Russian Federation,Bachelor's Degree,7.0,26424.0
+Russian Federation,Master's Degree,3.0,23460.0
+Russian Federation,Master's Degree,7.0,33972.0
+Russian Federation,Less than Bachelor's Degree,10.0,62280.0
+Russian Federation,Master's Degree,6.0,34600.0
+Russian Federation,Less than Bachelor's Degree,8.0,54512.0
+Russian Federation,Bachelor's Degree,1.0,17928.0
+Russian Federation,Master's Degree,10.0,47184.0
+Russian Federation,Less than Bachelor's Degree,3.0,15096.0
+Russian Federation,Master's Degree,10.0,37752.0
+Russian Federation,Less than Bachelor's Degree,3.0,22644.0
+Russian Federation,Bachelor's Degree,2.0,5664.0
+Russian Federation,Master's Degree,5.0,41520.0
+Russian Federation,Bachelor's Degree,2.0,41520.0
+Russian Federation,Master's Degree,7.0,30192.0
+Russian Federation,Bachelor's Degree,3.0,19812.0
+Russian Federation,Master's Degree,6.0,47184.0
+Russian Federation,Bachelor's Degree,5.0,22644.0
+Russian Federation,Master's Degree,6.0,51901.0
+Russian Federation,Bachelor's Degree,8.0,56616.0
+Russian Federation,Master's Degree,4.0,43404.0
+Russian Federation,Bachelor's Degree,0.5,20076.0
+Russian Federation,Post Graduate Degree,6.0,22644.0
+Russian Federation,Bachelor's Degree,4.0,33972.0
+Russian Federation,Post Graduate Degree,4.0,15096.0
+Russian Federation,Master's Degree,8.0,24540.0
+Russian Federation,Bachelor's Degree,5.0,42468.0
+Russian Federation,Bachelor's Degree,2.0,18876.0
+Russian Federation,Less than Bachelor's Degree,7.0,28308.0
+Russian Federation,Post Graduate Degree,10.0,28308.0
+Russian Federation,Bachelor's Degree,2.0,38000.0
+Russian Federation,Bachelor's Degree,2.0,19440.0
+Russian Federation,Master's Degree,2.0,22644.0
+Russian Federation,Master's Degree,4.0,31140.0
+Russian Federation,Bachelor's Degree,6.0,18876.0
+Russian Federation,Master's Degree,10.0,69828.0
+Russian Federation,Bachelor's Degree,3.0,14340.0
+Russian Federation,Master's Degree,10.0,22644.0
+Russian Federation,Bachelor's Degree,4.0,18876.0
+Russian Federation,Bachelor's Degree,5.0,42468.0
+Russian Federation,Master's Degree,8.0,16980.0
+Russian Federation,Less than Bachelor's Degree,4.0,40008.0
+Russian Federation,Bachelor's Degree,2.0,20760.0
+Russian Federation,Bachelor's Degree,2.0,30192.0
+Russian Federation,Post Graduate Degree,1.0,26737.0
+Russian Federation,Post Graduate Degree,2.0,14160.0
+Russian Federation,Master's Degree,5.0,16980.0
+Russian Federation,Master's Degree,7.0,30192.0
+Russian Federation,Master's Degree,10.0,38688.0
+Russian Federation,Master's Degree,10.0,79272.0
+Russian Federation,Bachelor's Degree,2.0,13212.0
+Russian Federation,Less than Bachelor's Degree,8.0,18876.0
+Russian Federation,Less than Bachelor's Degree,10.0,56616.0
+Russian Federation,Bachelor's Degree,4.0,37752.0
+Russian Federation,Bachelor's Degree,4.0,22644.0
+Russian Federation,Bachelor's Degree,1.0,11328.0
+Russian Federation,Less than Bachelor's Degree,6.0,27180.0
+Russian Federation,Bachelor's Degree,1.0,124560.0
+Russian Federation,Bachelor's Degree,3.0,45300.0
+Russian Federation,Master's Degree,8.0,60396.0
+Russian Federation,Master's Degree,2.0,31455.0
+Russian Federation,Bachelor's Degree,7.0,71712.0
+Russian Federation,Post Graduate Degree,6.0,54732.0
+Russian Federation,Master's Degree,4.0,18876.0
+Russian Federation,Bachelor's Degree,0.5,12264.0
+Russian Federation,Master's Degree,0.5,7176.0
+Russian Federation,Less than Bachelor's Degree,6.0,52848.0
+Russian Federation,Master's Degree,5.0,33972.0
+Russian Federation,Bachelor's Degree,2.0,56616.0
+Russian Federation,Master's Degree,6.0,58978.0
+Russian Federation,Master's Degree,3.0,11508.0
+Russian Federation,Master's Degree,8.0,64164.0
+Russian Federation,Bachelor's Degree,5.0,39636.0
+Russian Federation,Bachelor's Degree,6.0,34800.0
+Russian Federation,Less than Bachelor's Degree,0.5,11328.0
+Russian Federation,Bachelor's Degree,5.0,13020.0
+Russian Federation,Less than Bachelor's Degree,4.0,4716.0
+Russian Federation,Master's Degree,10.0,33972.0
+Russian Federation,Master's Degree,8.0,28308.0
+Russian Federation,Master's Degree,4.0,21708.0
+Russian Federation,Less than Bachelor's Degree,3.0,54168.0
+Russian Federation,Bachelor's Degree,3.0,27372.0
+Russian Federation,Bachelor's Degree,6.0,75492.0
+Russian Federation,Less than Bachelor's Degree,3.0,26424.0
+Russian Federation,Post Graduate Degree,10.0,75492.0
+Russian Federation,Bachelor's Degree,2.0,13212.0
+Russian Federation,Less than Bachelor's Degree,5.0,18876.0
+Russian Federation,Bachelor's Degree,10.0,18876.0
+Russian Federation,Master's Degree,4.0,10380.0
+Russian Federation,Master's Degree,3.0,15852.0
+Russian Federation,Bachelor's Degree,6.0,28308.0
+Russian Federation,Bachelor's Degree,7.0,39636.0
+Russian Federation,Master's Degree,8.0,33972.0
+Russian Federation,Master's Degree,3.0,45864.0
+Russian Federation,Master's Degree,9.0,23592.0
+Russian Federation,Bachelor's Degree,10.0,18876.0
+Russian Federation,Bachelor's Degree,2.0,5664.0
+Russian Federation,Master's Degree,10.0,35856.0
+Russian Federation,Master's Degree,4.0,42648.0
+Russian Federation,Bachelor's Degree,1.0,13212.0
+Russian Federation,Master's Degree,4.0,52848.0
+Russian Federation,Master's Degree,2.0,22644.0
+Russian Federation,Less than Bachelor's Degree,6.0,54732.0
+Russian Federation,Less than Bachelor's Degree,3.0,12264.0
+Russian Federation,Bachelor's Degree,3.0,30192.0
+Russian Federation,Less than Bachelor's Degree,2.0,12600.0
+Russian Federation,Master's Degree,10.0,31140.0
+Russian Federation,Bachelor's Degree,6.0,22644.0
+Russian Federation,Less than Bachelor's Degree,7.0,45480.0
+Russian Federation,Master's Degree,8.0,62910.0
+Russian Federation,Bachelor's Degree,3.0,25476.0
+Russian Federation,Bachelor's Degree,1.0,11328.0
+Russian Federation,Less than Bachelor's Degree,9.0,19812.0
+Russian Federation,Bachelor's Degree,5.0,25104.0
+Russian Federation,Bachelor's Degree,8.0,33972.0
+Russian Federation,Bachelor's Degree,0.5,11328.0
+Russian Federation,Bachelor's Degree,3.0,18876.0
+Russian Federation,Post Graduate Degree,7.0,28308.0
+Russian Federation,Bachelor's Degree,7.0,48132.0
+Russian Federation,Post Graduate Degree,8.0,60000.0
+Russian Federation,Master's Degree,0.5,7548.0
+Russian Federation,Bachelor's Degree,0.5,6600.0
+Russian Federation,Master's Degree,5.0,28308.0
+Russian Federation,Less than Bachelor's Degree,9.0,21708.0
+Russian Federation,Master's Degree,10.0,47748.0
+Russian Federation,Master's Degree,7.0,33972.0
+Russian Federation,Post Graduate Degree,9.0,37752.0
+Russian Federation,Less than Bachelor's Degree,0.5,9624.0
+Russian Federation,Less than Bachelor's Degree,3.0,24540.0
+Russian Federation,Master's Degree,5.0,22056.0
+Russian Federation,Master's Degree,7.0,84000.0
+Russian Federation,Master's Degree,10.0,43404.0
+Russian Federation,Bachelor's Degree,7.0,37752.0
+Russian Federation,Master's Degree,6.0,30192.0
+Russian Federation,Master's Degree,9.0,56616.0
+Russian Federation,Less than Bachelor's Degree,2.0,34728.0
+Russian Federation,Master's Degree,5.0,116384.0
+Russian Federation,Bachelor's Degree,8.0,83040.0
+Russian Federation,Less than Bachelor's Degree,8.0,39636.0
+Russian Federation,Bachelor's Degree,7.0,76812.0
+Russian Federation,Master's Degree,8.0,3780.0
+Russian Federation,Master's Degree,1.0,22644.0
+Russian Federation,Bachelor's Degree,7.0,84924.0
+Russian Federation,Post Graduate Degree,10.0,75492.0
+Russian Federation,Master's Degree,5.0,71712.0
+Russian Federation,Bachelor's Degree,2.0,13212.0
+Russian Federation,Bachelor's Degree,3.0,33972.0
+Russian Federation,Bachelor's Degree,0.5,12264.0
+Russian Federation,Master's Degree,5.0,60396.0
+Russian Federation,Less than Bachelor's Degree,3.0,37752.0
+Russian Federation,Less than Bachelor's Degree,8.0,47184.0
+Russian Federation,Less than Bachelor's Degree,10.0,45300.0
+Russian Federation,Bachelor's Degree,3.0,18876.0
+Russian Federation,Less than Bachelor's Degree,1.0,28308.0
+Russian Federation,Master's Degree,3.0,33972.0
+Russian Federation,Bachelor's Degree,1.0,37752.0
+Russian Federation,Less than Bachelor's Degree,10.0,47184.0
+Russian Federation,Master's Degree,2.0,47184.0
+Russian Federation,Master's Degree,5.0,66060.0
+Russian Federation,Master's Degree,10.0,120000.0
+Russian Federation,Master's Degree,10.0,54540.0
+Russian Federation,Post Graduate Degree,5.0,47184.0
+Russian Federation,Bachelor's Degree,7.0,38916.0
+Russian Federation,Master's Degree,9.0,57564.0
+Russian Federation,Bachelor's Degree,4.0,41520.0
+Russian Federation,Master's Degree,4.0,11328.0
+Russian Federation,Bachelor's Degree,4.0,19632.0
+Russian Federation,Bachelor's Degree,5.0,19812.0
+Russian Federation,Master's Degree,10.0,94368.0
+Russian Federation,Bachelor's Degree,7.0,35856.0
+Russian Federation,Bachelor's Degree,0.5,11328.0
+Russian Federation,Less than Bachelor's Degree,1.0,7548.0
+Russian Federation,Bachelor's Degree,9.0,26040.0
+Russian Federation,Master's Degree,1.0,17928.0
+Russian Federation,Less than Bachelor's Degree,5.0,17736.0
+Russian Federation,Bachelor's Degree,6.0,18876.0
+Russian Federation,Less than Bachelor's Degree,0.5,5664.0
+Russian Federation,Less than Bachelor's Degree,7.0,24000.0
+Russian Federation,Master's Degree,3.0,15096.0
+Russian Federation,Bachelor's Degree,3.0,23592.0
+Russian Federation,Master's Degree,5.0,9432.0
+Russian Federation,Master's Degree,9.0,47184.0
+Russian Federation,Less than Bachelor's Degree,6.0,22644.0
+Russian Federation,Bachelor's Degree,2.0,28308.0
+Russian Federation,Bachelor's Degree,3.0,18876.0
+Russian Federation,Master's Degree,3.0,34920.0
+Russian Federation,Master's Degree,8.0,43404.0
+Russian Federation,Bachelor's Degree,0.5,7548.0
+Russian Federation,Master's Degree,2.0,27180.0
+Russian Federation,Post Graduate Degree,10.0,15728.0
+Russian Federation,Bachelor's Degree,4.0,15096.0
+Russian Federation,Master's Degree,2.0,11328.0
+Russian Federation,Master's Degree,4.0,21708.0
+Russian Federation,Bachelor's Degree,0.5,11328.0
+Russian Federation,Bachelor's Degree,7.0,56616.0
+Russian Federation,Less than Bachelor's Degree,2.0,6600.0
+Russian Federation,Bachelor's Degree,4.0,49896.0
+Russian Federation,Bachelor's Degree,3.0,28308.0
+Russian Federation,Less than Bachelor's Degree,3.0,37752.0
+Russian Federation,Master's Degree,8.0,50388.0
+Russian Federation,Bachelor's Degree,2.0,6600.0
+Russian Federation,Bachelor's Degree,4.0,10188.0
+Russian Federation,Post Graduate Degree,2.0,13212.0
+Russian Federation,Bachelor's Degree,2.0,19812.0
+Russian Federation,Master's Degree,7.0,7548.0
+Russian Federation,Less than Bachelor's Degree,3.0,18876.0
+Russian Federation,Master's Degree,10.0,45480.0
+Russian Federation,Bachelor's Degree,9.0,61200.0
+Russian Federation,Master's Degree,2.0,6600.0
+Russian Federation,Bachelor's Degree,4.0,28308.0
+Russian Federation,Master's Degree,2.0,8496.0
+Russian Federation,Post Graduate Degree,6.0,47184.0
+Russian Federation,Master's Degree,5.0,15096.0
+Russian Federation,Bachelor's Degree,5.0,37764.0
+Russian Federation,Master's Degree,3.0,15096.0
+Russian Federation,Bachelor's Degree,3.0,18120.0
+Russian Federation,Master's Degree,9.0,72780.0
+Russian Federation,Master's Degree,10.0,35856.0
+Russian Federation,Bachelor's Degree,10.0,18876.0
+Russian Federation,Master's Degree,4.0,24540.0
+Russian Federation,Master's Degree,10.0,47184.0
+Russian Federation,Less than Bachelor's Degree,3.0,18873.0
+Russian Federation,Bachelor's Degree,2.0,15096.0
+Russian Federation,Master's Degree,10.0,47184.0
+Russian Federation,Master's Degree,4.0,10380.0
+Russian Federation,Bachelor's Degree,0.5,9432.0
+Russian Federation,Less than Bachelor's Degree,5.0,13212.0
+Russian Federation,Master's Degree,9.0,24912.0
+Russian Federation,Bachelor's Degree,1.0,10752.0
+Russian Federation,Master's Degree,7.0,49068.0
+Russian Federation,Bachelor's Degree,6.0,37752.0
+Russian Federation,Bachelor's Degree,2.0,18876.0
+Russian Federation,Bachelor's Degree,2.0,8496.0
+Russian Federation,Bachelor's Degree,2.0,8496.0
+Russian Federation,Master's Degree,4.0,33024.0
+Russian Federation,Master's Degree,5.0,56616.0
+Russian Federation,Bachelor's Degree,7.0,24000.0
+Russian Federation,Bachelor's Degree,2.0,30192.0
+Russian Federation,Less than Bachelor's Degree,1.0,22644.0
+Russian Federation,Post Graduate Degree,9.0,53159.0
+Russian Federation,Master's Degree,0.5,18876.0
+Russian Federation,Bachelor's Degree,2.0,11328.0
+Russian Federation,Bachelor's Degree,2.0,5664.0
+Russian Federation,Bachelor's Degree,6.0,12000.0
+Russian Federation,Master's Degree,6.0,9432.0
+Russian Federation,Master's Degree,4.0,52848.0
+Russian Federation,Less than Bachelor's Degree,5.0,18876.0
+Russian Federation,Less than Bachelor's Degree,0.5,5856.0
+Russian Federation,Less than Bachelor's Degree,3.0,84924.0
+Russian Federation,Bachelor's Degree,3.0,21708.0
+Russian Federation,Master's Degree,9.0,43404.0
+Russian Federation,Less than Bachelor's Degree,4.0,39072.0
+Russian Federation,Master's Degree,4.0,16608.0
+Russian Federation,Bachelor's Degree,3.0,26424.0
+Russian Federation,Bachelor's Degree,5.0,32088.0
+Russian Federation,Master's Degree,9.0,18876.0
+Russian Federation,Bachelor's Degree,3.0,13212.0
+Russian Federation,Less than Bachelor's Degree,3.0,22644.0
+Russian Federation,Bachelor's Degree,8.0,37752.0
+Russian Federation,Master's Degree,7.0,24540.0
+Russian Federation,Master's Degree,5.0,47184.0
+Russian Federation,Bachelor's Degree,5.0,73215.0
+Russian Federation,Less than Bachelor's Degree,7.0,41520.0
+Russian Federation,Bachelor's Degree,3.0,28308.0
+Russian Federation,Less than Bachelor's Degree,0.5,5664.0
+Russian Federation,Master's Degree,7.0,37752.0
+Russian Federation,Less than Bachelor's Degree,5.0,33972.0
+Russian Federation,Less than Bachelor's Degree,1.0,13212.0
+Russian Federation,Post Graduate Degree,10.0,56619.0
+Russian Federation,Less than Bachelor's Degree,3.0,13212.0
+Russian Federation,Less than Bachelor's Degree,7.0,37752.0
+Russian Federation,Post Graduate Degree,7.0,28308.0
+Russian Federation,Master's Degree,10.0,62280.0
+Russian Federation,Bachelor's Degree,3.0,16044.0
+Russian Federation,Master's Degree,10.0,47184.0
+Russian Federation,Bachelor's Degree,8.0,24540.0
+Russian Federation,Less than Bachelor's Degree,4.0,39072.0
+Russian Federation,Post Graduate Degree,5.0,180000.0
+Russian Federation,Master's Degree,8.0,38688.0
+Russian Federation,Master's Degree,8.0,52284.0
+Russian Federation,Less than Bachelor's Degree,7.0,43224.0
+Russian Federation,Post Graduate Degree,9.0,56616.0
+Russian Federation,Less than Bachelor's Degree,4.0,28308.0
+Russian Federation,Bachelor's Degree,10.0,45300.0
+Russian Federation,Less than Bachelor's Degree,10.0,22644.0
+Russian Federation,Bachelor's Degree,2.0,40572.0
+Russian Federation,Master's Degree,7.0,60396.0
+Russian Federation,Bachelor's Degree,4.0,45300.0
+Russian Federation,Bachelor's Degree,4.0,15096.0
+Russian Federation,Bachelor's Degree,1.0,5664.0
+Russian Federation,Less than Bachelor's Degree,8.0,47184.0
+Russian Federation,Bachelor's Degree,4.0,86500.0
+Russian Federation,Post Graduate Degree,10.0,9432.0
+Russian Federation,Less than Bachelor's Degree,1.0,13020.0
+Russian Federation,Master's Degree,7.0,18876.0
+Russian Federation,Master's Degree,6.0,60396.0
+Russian Federation,Bachelor's Degree,10.0,32088.0
+Russian Federation,Less than Bachelor's Degree,5.0,26988.0
+Russian Federation,Less than Bachelor's Degree,0.5,12000.0
+Russian Federation,Bachelor's Degree,5.0,27600.0
+Russian Federation,Master's Degree,6.0,18876.0
+Russian Federation,Bachelor's Degree,2.0,19536.0
+Russian Federation,Less than Bachelor's Degree,9.0,120000.0
+Russian Federation,Bachelor's Degree,10.0,18876.0
+Russian Federation,Master's Degree,7.0,30192.0
+Russian Federation,Less than Bachelor's Degree,3.0,18876.0
+Russian Federation,Bachelor's Degree,4.0,45300.0
+Russian Federation,Master's Degree,0.5,7548.0
+Russian Federation,Master's Degree,4.0,47184.0
+Russian Federation,Less than Bachelor's Degree,5.0,35856.0
+Russian Federation,Less than Bachelor's Degree,0.5,28308.0
+Russian Federation,Less than Bachelor's Degree,5.0,42468.0
+Russian Federation,Master's Degree,9.0,52848.0
+Russian Federation,Bachelor's Degree,3.0,15096.0
+Russian Federation,Bachelor's Degree,1.0,13212.0
+Russian Federation,Master's Degree,7.0,47184.0
+Russian Federation,Bachelor's Degree,0.5,11328.0
+Russian Federation,Bachelor's Degree,7.0,132108.0
+Russian Federation,Master's Degree,6.0,28000.0
+Russian Federation,Bachelor's Degree,3.0,11328.0
+Russian Federation,Bachelor's Degree,2.0,19812.0
+Russian Federation,Bachelor's Degree,4.0,56616.0
+Russian Federation,Post Graduate Degree,0.5,18876.0
+Russian Federation,Bachelor's Degree,9.0,50772.0
+Russian Federation,Master's Degree,5.0,24540.0
+Russian Federation,Master's Degree,1.0,24912.0
+Russian Federation,Bachelor's Degree,7.0,66060.0
+Russian Federation,Master's Degree,3.0,21324.0
+Russian Federation,Master's Degree,7.0,52848.0
+Russian Federation,Bachelor's Degree,9.0,39636.0
+Russian Federation,Less than Bachelor's Degree,1.0,22644.0
+Russian Federation,Bachelor's Degree,3.0,40572.0
+Russian Federation,Master's Degree,5.0,56052.0
+Russian Federation,Less than Bachelor's Degree,3.0,16044.0
+Russian Federation,Master's Degree,5.0,47184.0
+Russian Federation,Master's Degree,3.0,37752.0
+Russian Federation,Post Graduate Degree,6.0,15096.0
+Russian Federation,Bachelor's Degree,3.0,22644.0
+Russian Federation,Master's Degree,6.0,41520.0
+Russian Federation,Master's Degree,10.0,62280.0
+Russian Federation,Less than Bachelor's Degree,0.5,9600.0
+Russian Federation,Master's Degree,10.0,160416.0
+Russian Federation,Less than Bachelor's Degree,1.0,28308.0
+Russian Federation,Less than Bachelor's Degree,5.0,19524.0
+Russian Federation,Master's Degree,0.5,28308.0
+Russian Federation,Less than Bachelor's Degree,1.0,6600.0
+Russian Federation,Less than Bachelor's Degree,2.0,11328.0
+Russian Federation,Bachelor's Degree,5.0,28308.0
+Russian Federation,Bachelor's Degree,10.0,32088.0
+Russian Federation,Master's Degree,5.0,52848.0
+Russian Federation,Master's Degree,5.0,15096.0
+Russian Federation,Master's Degree,4.0,54000.0
+Russian Federation,Post Graduate Degree,7.0,22644.0
+Russian Federation,Bachelor's Degree,4.0,63276.0
+Russian Federation,Bachelor's Degree,3.0,35859.0
+Russian Federation,Less than Bachelor's Degree,2.0,5664.0
+Russian Federation,Bachelor's Degree,4.0,24000.0
+Russian Federation,Bachelor's Degree,3.0,22644.0
+Russian Federation,Master's Degree,2.0,16980.0
+Russian Federation,Master's Degree,3.0,31140.0
+Russian Federation,Less than Bachelor's Degree,5.0,39636.0
+Russian Federation,Less than Bachelor's Degree,2.0,15096.0
+Russian Federation,Post Graduate Degree,8.0,28308.0
+Russian Federation,Master's Degree,3.0,11328.0
+Russian Federation,Bachelor's Degree,2.0,21324.0
+Russian Federation,Master's Degree,7.0,43404.0
+Russian Federation,Bachelor's Degree,0.5,6600.0
+Russian Federation,Bachelor's Degree,3.0,28308.0
+Russian Federation,Less than Bachelor's Degree,5.0,37752.0
+Russian Federation,Less than Bachelor's Degree,8.0,53976.0
+Russian Federation,Less than Bachelor's Degree,5.0,28308.0
+Russian Federation,Less than Bachelor's Degree,8.0,18876.0
+Russian Federation,Master's Degree,3.0,50952.0
+Russian Federation,Master's Degree,2.0,20388.0
+Russian Federation,Post Graduate Degree,9.0,43404.0
+Russian Federation,Less than Bachelor's Degree,0.5,9432.0
+Russian Federation,Less than Bachelor's Degree,5.0,15096.0
+Russian Federation,Less than Bachelor's Degree,0.5,11328.0
+Russian Federation,Master's Degree,10.0,94368.0
+Russian Federation,Less than Bachelor's Degree,0.5,16044.0
+Russian Federation,Master's Degree,0.5,7548.0
+Russian Federation,Bachelor's Degree,8.0,37752.0
+Russian Federation,Master's Degree,10.0,69595.0
+Russian Federation,Less than Bachelor's Degree,3.0,1573.0
+Russian Federation,Less than Bachelor's Degree,1.0,11328.0
+Russian Federation,Bachelor's Degree,6.0,39072.0
+Russian Federation,Less than Bachelor's Degree,5.0,15096.0
+Russian Federation,Bachelor's Degree,7.0,31200.0
+Russian Federation,Master's Degree,2.0,8496.0
+Russian Federation,Bachelor's Degree,3.0,38688.0
+Russian Federation,Bachelor's Degree,2.0,31236.0
+Russian Federation,Bachelor's Degree,3.0,29256.0
+Russian Federation,Master's Degree,5.0,13212.0
+Russian Federation,Less than Bachelor's Degree,7.0,45300.0
+Russian Federation,Less than Bachelor's Degree,3.0,22644.0
+Russian Federation,Master's Degree,6.0,31140.0
+Russian Federation,Bachelor's Degree,3.0,22644.0
+Russian Federation,Master's Degree,5.0,31455.0
+Russian Federation,Master's Degree,4.0,62280.0
+Russian Federation,Bachelor's Degree,10.0,66060.0
+Russian Federation,Master's Degree,9.0,56436.0
+Russian Federation,Master's Degree,9.0,28800.0
+Russian Federation,Master's Degree,3.0,18876.0
+Russian Federation,Master's Degree,3.0,24540.0
+Russian Federation,Master's Degree,2.0,32088.0
+Russian Federation,Less than Bachelor's Degree,7.0,26424.0
+Russian Federation,Less than Bachelor's Degree,2.0,7548.0
+Russian Federation,Less than Bachelor's Degree,10.0,22644.0
+Russian Federation,Master's Degree,4.0,37752.0
+Russian Federation,Master's Degree,9.0,128400.0
+Russian Federation,Less than Bachelor's Degree,10.0,31140.0
+Russian Federation,Master's Degree,7.0,56616.0
+Russian Federation,Bachelor's Degree,2.0,18876.0
+Russian Federation,Post Graduate Degree,5.0,47184.0
+Russian Federation,Less than Bachelor's Degree,3.0,6606.0
+Russian Federation,Bachelor's Degree,2.0,35856.0
+Russian Federation,Master's Degree,4.0,24540.0
+Russian Federation,Less than Bachelor's Degree,1.0,11328.0
+Russian Federation,Less than Bachelor's Degree,10.0,18612.0
+Russian Federation,Bachelor's Degree,0.5,8496.0
+Russian Federation,Bachelor's Degree,3.0,14340.0
+Russian Federation,Less than Bachelor's Degree,1.0,11328.0
+Russian Federation,Less than Bachelor's Degree,0.5,9432.0
+Russian Federation,Bachelor's Degree,4.0,13212.0
+Russian Federation,Bachelor's Degree,0.5,6072.0
+Russian Federation,Master's Degree,9.0,94368.0
+Russian Federation,Bachelor's Degree,7.0,84924.0
+Russian Federation,Bachelor's Degree,6.0,15096.0
+Russian Federation,Bachelor's Degree,1.0,10752.0
+Russian Federation,Master's Degree,4.0,9432.0
+Russian Federation,Master's Degree,5.0,60396.0
+Russian Federation,Bachelor's Degree,4.0,18876.0
+Russian Federation,Master's Degree,3.0,11892.0
+Russian Federation,Bachelor's Degree,5.0,14160.0
+Russian Federation,Less than Bachelor's Degree,1.0,11328.0
+Russian Federation,Master's Degree,10.0,37752.0
+Russian Federation,Master's Degree,8.0,75864.0
