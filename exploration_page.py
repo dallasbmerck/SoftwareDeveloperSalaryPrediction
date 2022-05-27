@@ -79,8 +79,6 @@ df = load()
 def show_exploration_page():
     st.title('Software Engineer Salary Data')
 
-    st.write("""###### Data has been collected from the Stack Overflow Developer Survey 2021""")
-
     st.write('')
     st.write('')
 
