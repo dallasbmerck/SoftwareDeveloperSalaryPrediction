@@ -21,7 +21,7 @@ education_after_LE = data["education_after_LE"]
 
 # Function populates the prediction parameters in the prediction page using Streamlit.
 def show_prediction_page():
-    st.title("Software Engineer Salary Prediction")
+    st.title("Software Developer Salary Prediction")
 
     st.write("""###### Please enter your country of residence, education level, and years of experience below.""")
 
