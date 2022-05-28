@@ -119,5 +119,5 @@ def show_exploration_page():
     st.write('')
 
     st.markdown('<p style="font-size: 12px">The data used the create the graphs above is from the Stack Overflow '
-                'Developer Survey after it has been process to remove unneeded data points.'
+                'Developer Survey after it has been processed to remove unneeded data points.'
                 '</p>', unsafe_allow_html=True)
