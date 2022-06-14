@@ -1,6 +1,6 @@
 # SoftwareDeveloperSalaryPrediction
 - Author: Dallas Merck
-- Link to wev application: https://share.streamlit.io/dallasbmerck/c964capstone/app.py
+- Link to web application: https://share.streamlit.io/dallasbmerck/c964capstone/app.py
 
 ## Development Environment:
 - Jupyter Notebook 6.4.8
